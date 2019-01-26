@@ -1,0 +1,71 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-size: 14px;
+}
+
+a {
+  outline: none;
+}
+
+#atlasas {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+#svg {
+  position: relative;
+  width: 70%;
+  padding:.5em;
+  overflow: auto;
+  text-align: center;
+
+  .zoom {
+    position: fixed;
+    z-index: 1;
+    display: flex;
+    justify-items: stretch;
+    top: 1em;
+    left: 1em;;
+    a {
+      display: inline-block;
+      width: 1em;
+      height: 1em;
+      margin: 0 .1em;
+      padding: 0;
+      border: 1px solid yellowgreen;
+      border-radius: 50%;
+      color: mediumseagreen;
+      background-color: lightyellow;
+      text-decoration: none;
+      text-align: center;
+      font-weight: bold;
+      font-size: 30px;
+      line-height:.8em;
+      &.orig {
+        width: auto;
+        //font-size: 14px;
+        border-radius: 5px;
+      }
+    }
+  }
+
+  .back-to-website {
+    position: fixed;
+    z-index: 1;
+    top: 1em;
+    right: 30%;;
+  }
+
+  svg {
+    width: 58em;
+    height: 58em;
+  }
+}
+
+#result {
+  width: 30%;
+  padding:.5em;
+}
