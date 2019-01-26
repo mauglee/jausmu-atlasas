@@ -61,7 +61,7 @@
 			crossorigin="anonymous"></script>
 
 	<script src="config.js<?= is_file( 'config.js' ) ? '?v=' . filemtime( 'config.js' ) : '' ?>"></script>
-	<script src="scripts.js<?= is_file( 'scripts.js' ) ? '?v=' . filemtime( 'scripts.js' ) : '' ?>"></script>
+	<script src="scripts.min.js<?= is_file( 'scripts.js' ) ? '?v=' . filemtime( 'scripts.js' ) : '' ?>"></script>
 
 </body>
 </html>
