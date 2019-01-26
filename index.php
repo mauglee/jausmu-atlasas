@@ -19,6 +19,9 @@
 
 </head>
 <body>
+	<a href="#result" class="edit-post btn btn-primary hidden">
+		<i class="fas fa-edit"></i>
+	</a>
 	<div id="atlasas">
 		<div id="svg">
 			<div class="zoom btn-group" role="group">

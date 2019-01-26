@@ -27,6 +27,9 @@ var svg_el = $('svg', '#svg').eq(0);
 var svg_w = svg_el.width();
 var svg_h = svg_el.height();
 
+// link to backend (edit post)
+var edit = $('.edit-post');
+
 svg_el.draggable();
 
 // prevent link, load page content into DIV by AJAX
@@ -48,12 +51,19 @@ $('body').on('click', '#svg svg a', function (e) {
                         html = $(h).find(part).html();
                         r.html(html);
                         loaded[id] = html;
+                        edit.attr('href', '/wp-admin/post.php?post=' + id + '&action=edit');
+
+                        // if EDIT available
+                        if ($(h).find('#wp-admin-bar-edit').length > 0) {
+                            edit.removeClass('hidden');
+                        }
                     }
                 }
             );
         } else {
             html = loaded[id];
             r.html(html);
+            edit.attr('href', '/wp-admin/post.php?post=' + id + '&action=edit');
         }
 
         // Scroll to results

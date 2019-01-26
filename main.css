@@ -7,6 +7,13 @@ html, body {
 a {
   outline: none; }
 
+.edit-post {
+  position: absolute;
+  top: 1em;
+  right: 1em; }
+  .edit-post.hidden {
+    display: none; }
+
 #atlasas {
   display: flex;
   justify-content: flex-start;

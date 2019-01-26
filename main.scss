@@ -9,6 +9,15 @@ a {
   outline: none;
 }
 
+.edit-post {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  &.hidden {
+    display: none;
+  }
+}
+
 #atlasas {
   display: flex;
   justify-content: flex-start;
@@ -18,7 +27,7 @@ a {
 #svg {
   position: relative;
   width: 70%;
-  padding:.5em;
+  padding: .5em;
   overflow: auto;
   text-align: center;
 
@@ -43,7 +52,7 @@ a {
       text-align: center;
       font-weight: bold;
       font-size: 30px;
-      line-height:.8em;
+      line-height: .8em;
       &.orig {
         width: auto;
         //font-size: 14px;
@@ -67,5 +76,5 @@ a {
 
 #result {
   width: 30%;
-  padding:.5em;
+  padding: .5em;
 }
