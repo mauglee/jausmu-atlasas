@@ -60,7 +60,7 @@
 			integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
 			crossorigin="anonymous"></script>
 
-	<script src="config.js<?= is_file( 'config.js' ) ? '?v=' . filemtime( 'config.js' ) : '' ?>"></script>
+	<script src="config.min.js<?= is_file( 'config.min.js' ) ? '?v=' . filemtime( 'config.min.js' ) : '' ?>"></script>
 	<script src="scripts.min.js<?= is_file( 'scripts.js' ) ? '?v=' . filemtime( 'scripts.js' ) : '' ?>"></script>
 
 </body>
