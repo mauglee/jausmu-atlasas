@@ -32,24 +32,6 @@ a {
     justify-items: stretch;
     top: 1em;
     left: 1em; }
-    #svg .zoom a {
-      display: inline-block;
-      width: 1em;
-      height: 1em;
-      margin: 0 .1em;
-      padding: 0;
-      border: 1px solid yellowgreen;
-      border-radius: 50%;
-      color: mediumseagreen;
-      background-color: lightyellow;
-      text-decoration: none;
-      text-align: center;
-      font-weight: bold;
-      font-size: 30px;
-      line-height: .8em; }
-      #svg .zoom a.orig {
-        width: auto;
-        border-radius: 5px; }
   #svg .back-to-website {
     position: fixed;
     z-index: 1;
@@ -58,6 +40,10 @@ a {
   #svg svg {
     width: 58em;
     height: 58em; }
+    #svg svg a.loaded.active path {
+      fill: #007bff; }
+    #svg svg a.loaded.active text {
+      fill: white; }
 
 #result {
   width: 30%;

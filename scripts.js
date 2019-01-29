@@ -51,6 +51,8 @@ $('body').on('click', '#svg svg a', function (e) {
                         html = $(h).find(part).html();
                         r.html(html);
                         loaded[id] = html;
+                        a.addClass('loaded');
+                        setActive(a);
                         edit.attr('href', '/wp-admin/post.php?post=' + id + '&action=edit');
 
                         // if EDIT available
@@ -63,6 +65,7 @@ $('body').on('click', '#svg svg a', function (e) {
         } else {
             html = loaded[id];
             r.html(html);
+            setActive(a);
             edit.attr('href', '/wp-admin/post.php?post=' + id + '&action=edit');
         }
 
@@ -94,3 +97,11 @@ $('body').on('click', '#svg svg a', function (e) {
     }
 });
 
+function setActive(element) {
+
+    if ($('a', '#svg svg').removeClass('active')) {
+        element.addClass('active');
+    }
+
+
+}
