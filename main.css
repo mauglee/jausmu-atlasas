@@ -40,6 +40,10 @@ a {
   #svg svg {
     width: 58em;
     height: 58em; }
+    #svg svg .neighbour path {
+      fill: #cce5ff; }
+    #svg svg .neighbour text {
+      fill: #004085; }
     #svg svg a.loaded.active path {
       fill: #007bff; }
     #svg svg a.loaded.active text {

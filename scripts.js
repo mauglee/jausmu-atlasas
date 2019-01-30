@@ -13,6 +13,8 @@ svgs.each(function (i, el) {
             a.setAttributeNS(namespaceURI, 'href', '/?p=' + co.post);
             $(el).wrapInner(a);
             $(el).attr('data-postid', co.post);
+            $(el).attr('data-level', getLevel(id));
+            $(el).attr('data-segment', getSegment(id));
             return false; // break $.each() loop
         }
     });
@@ -54,6 +56,7 @@ $('body').on('click', '#svg svg a', function (e) {
                         a.addClass('loaded');
                         setActive(a);
                         edit.attr('href', '/wp-admin/post.php?post=' + id + '&action=edit');
+                        scrollToResult(r);
 
                         // if EDIT available
                         if ($(h).find('#wp-admin-bar-edit').length > 0) {
@@ -67,10 +70,8 @@ $('body').on('click', '#svg svg a', function (e) {
             r.html(html);
             setActive(a);
             edit.attr('href', '/wp-admin/post.php?post=' + id + '&action=edit');
+            scrollToResult(r);
         }
-
-        // Scroll to results
-        $('html, body').animate({scrollTop: r.offset().top});
 
     } else {
         r.html('');
@@ -101,7 +102,39 @@ function setActive(element) {
 
     if ($('a', '#svg svg').removeClass('active')) {
         element.addClass('active');
+        setNeighbours(element);
     }
 
+}
 
+function setNeighbours(element) {
+
+    var p = element.parent();
+    var id = p.data('id');
+    var level = p.data('level');
+    var segment = p.data('segment');
+
+    if ($('[data-level]', '#svg svg').removeClass('neighbour')) {
+        $('[data-level="' + (level - 1) + '"], [data-level="' + level + '"], [data-level="' + (level + 1) + '"]')
+            .filter($('[data-segment="' + ((segment - 1) < 1 ? 24 : segment - 1) + '"], [data-segment="' + segment + '"], [data-segment="' + ((segment + 1 > 24 ? 1 : segment + 1)) + '"]'))
+            .not('[data-id="' + id + '"]')
+            .addClass('neighbour');
+    }
+
+}
+
+function getLevel(id) {
+    return Math.ceil(parseInt(id) / 24);
+}
+
+function getSegment(id) {
+    var mod = parseInt(id) % 24;
+    if (mod === 0) {
+        return 24;
+    }
+    return mod;
+}
+
+function scrollToResult(element) {
+    $('html, body').animate({scrollTop: element.offset().top});
 }

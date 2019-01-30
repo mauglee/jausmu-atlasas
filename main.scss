@@ -1,5 +1,7 @@
 $active-bg:#007bff;
 $active-fg:white;
+$neighbour-bg:#cce5ff;
+$neighbour-fg:#004085;
 
 html, body {
   margin: 0;
@@ -53,6 +55,14 @@ a {
   svg {
     width: 58em;
     height: 58em;
+    .neighbour {
+      path {
+        fill:$neighbour-bg;
+      }
+      text {
+        fill:$neighbour-fg;
+      }
+    }
     a {
       &.loaded {
         &.active {
