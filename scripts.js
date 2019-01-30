@@ -103,6 +103,7 @@ function setActive(element) {
     if ($('a', '#svg svg').removeClass('active')) {
         element.addClass('active');
         setNeighbours(element);
+        setOposite(element);
     }
 
 }
@@ -119,6 +120,24 @@ function setNeighbours(element) {
             .filter($('[data-segment="' + ((segment - 1) < 1 ? 24 : segment - 1) + '"], [data-segment="' + segment + '"], [data-segment="' + ((segment + 1 > 24 ? 1 : segment + 1)) + '"]'))
             .not('[data-id="' + id + '"]')
             .addClass('neighbour');
+    }
+
+}
+
+function setOposite(element) {
+
+    var p = element.parent();
+    var level = p.data('level');
+    var segment = p.data('segment');
+    var segment_o;
+    if (segment <= 12) {
+        segment_o = segment + 12;
+    } else {
+        segment_o = segment - 12;
+    }
+    console.log(level, segment, segment_o);
+    if ($('[data-level]', '#svg svg').removeClass('oposite')) {
+        $('[data-level="' + level + '"][data-segment="' + segment_o + '"]').addClass('oposite');
     }
 
 }

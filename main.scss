@@ -2,6 +2,8 @@ $active-bg:#007bff;
 $active-fg:white;
 $neighbour-bg:#cce5ff;
 $neighbour-fg:#004085;
+$oposite-bg:#28a745;
+$oposite-fg:white;
 
 html, body {
   margin: 0;
@@ -61,6 +63,14 @@ a {
       }
       text {
         fill:$neighbour-fg;
+      }
+    }
+    .oposite {
+      path {
+        fill:$oposite-bg;
+      }
+      text {
+        fill:$oposite-fg;
       }
     }
     a {

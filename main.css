@@ -44,6 +44,10 @@ a {
       fill: #cce5ff; }
     #svg svg .neighbour text {
       fill: #004085; }
+    #svg svg .oposite path {
+      fill: #28a745; }
+    #svg svg .oposite text {
+      fill: white; }
     #svg svg a.loaded.active path {
       fill: #007bff; }
     #svg svg a.loaded.active text {
