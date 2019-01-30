@@ -581,7 +581,7 @@ viewBox="0 0 4445 4445"
     <text x="2425" y="-159"  class="fil1 fnt3">Draudimas</text>
    </g>
   </g>
-  <g data-id="133">
+  <g data-id="149">
    <path class="fil3" d="M3669 1113l0 0c96,125 176,263 238,412l-118 49c-58,-138 -132,-267 -222,-383l0 0 102 -78z"/>
    <g transform="matrix(0.5 0.866025 -0.866025 0.5 2297.96 -799.433)">
     <text x="2425" y="-159"  class="fil1 fnt3">Naivumas</text>
@@ -695,7 +695,7 @@ viewBox="0 0 4445 4445"
     <text x="2425" y="-159"  class="fil1 fnt3">Plepumas</text>
    </g>
   </g>
-  <g data-id="201">
+  <g data-id="173">
    <path class="fil3" d="M3772 1034l0 0c103,133 190,281 256,441l-121 50c-62,-149 -142,-287 -238,-412l0 0 103 -79z"/>
    <g transform="matrix(0.5 0.866025 -0.866025 0.5 2419.42 -842.225)">
     <text x="2425" y="-159"  class="fil1 fnt3">Aklumas</text>
@@ -1024,7 +1024,7 @@ viewBox="0 0 4445 4445"
     <text x="2425" y="-159"  class="fil1 fnt1">Laukimas</text>
    </g>
   </g>
-  <g data-id="149">
+  <g data-id="133">
    <path class="fil2" d="M2444 3903c-150,20 -298,19 -441,0l-2 0 18 -132 1 0c132,18 268,18 407,0l17 132z"/>
    <text x="2105" y="3871"  class="fil1 fnt1">Naivumas</text>
   </g>
@@ -1046,7 +1046,7 @@ viewBox="0 0 4445 4445"
     <text x="2425" y="-159"  class="fil1 fnt1">Kompleksuotumas</text>
    </g>
   </g>
-  <g data-id="173">
+  <g data-id="201">
    <path class="fil3" d="M4150 3021c-70,169 -162,327 -273,471l0 0 -105 -80 0 0c104,-135 190,-284 255,-442l123 51z"/>
    <g transform="matrix(0.5 -0.866025 0.866025 0.5 2852.31 5537.46)">
     <text x="2425" y="-159"  class="fil1 fnt3">Aklumas</text>
@@ -1486,7 +1486,7 @@ viewBox="0 0 4445 4445"
     <text x="2425" y="-159"  class="fil1 fnt3">Viliojimas</text>
    </g>
   </g>
-  <g data-id="189">
+  <g data-id="211">
    <path class="fil3" d="M155 2495l0 -1c-25,-185 -24,-367 -1,-544l132 18c-22,165 -23,335 0,508l0 2 -131 17z"/>
    <g transform="matrix(2.70339E-14 1 -1 2.70339E-14 22.3354 -390.966)">
     <text x="2425" y="-159"  class="fil1 fnt3">Atsiribojimas</text>
@@ -1550,7 +1550,7 @@ viewBox="0 0 4445 4445"
     <text x="2425" y="-159"  class="fil1 fnt3">Graužatis</text>
    </g>
   </g>
-  <g data-id="211">
+  <g data-id="189">
    <path class="fil3" d="M777 1113c-97,126 -177,264 -238,411l-1 1 -120 -50 0 0c66,-158 152,-307 255,-441l104 79z"/>
    <g transform="matrix(0.5 -0.866025 0.866025 0.5 -558.643 3640.96)">
     <text x="2425" y="-159"  class="fil1 fnt3">Atsiribojimas</text>
