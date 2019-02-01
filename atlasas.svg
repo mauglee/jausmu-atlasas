@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 4445 4445" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 4445 4445" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <style type="text/css">
             <![CDATA[
@@ -32,1441 +32,1441 @@
         <g data-id="1">
             <path class="fil4" d="M2222 2223l0 -1 0 0 0 -1 -81 -620 0 0c54,-7 109,-7 163,0l-81 620 -1 1 0 0 0 1 0 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s1" side="left">Įžvalgumas</textPath>
+                <textPath startOffset="100%" href="#l1s1">Įžvalgumas</textPath>
             </text>
         </g>
         <g data-id="2">
             <path class="fil4" d="M2222 2223l0 0 1 -1 0 0 0 0 0 -1 239 -577c-51,-21 -104,-35 -157,-43l-1 0 -81 620 -1 1 0 0 0 1 0 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s2" side="left">Žinojimas</textPath>
+                <textPath startOffset="100%" href="#l1s2">Žinojimas</textPath>
             </text>
         </g>
         <g data-id="3">
             <path class="fil4" d="M2462 1644l1 0c50,21 98,48 141,82l-381 496 0 0 239 -578z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s3" side="left">Tyrumas</textPath>
+                <textPath startOffset="100%" href="#l1s3">Tyrumas</textPath>
             </text>
         </g>
         <g data-id="4">
             <path class="fil4" d="M2222 2223l1 -1 0 0 0 0 381 -496 0 0c43,33 82,72 116,115l-496 381 -1 0 0 0 0 1 -1 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s4" side="left">Ryžtingumas</textPath>
+                <textPath startOffset="100%" href="#l1s4">Ryžtingumas</textPath>
             </text>
         </g>
         <g data-id="5">
             <path class="fil4" d="M2222 2223l1 0 0 0 0 -1 0 0 2 0 577 -239c-22,-51 -49,-98 -82,-141l0 -1 -496 381 -1 0 0 0 0 1 -1 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s5" side="left">Atvirumas</textPath>
+                <textPath startOffset="100%" href="#l1s5">Atvirumas</textPath>
             </text>
         </g>
         <g data-id="6">
             <path class="fil4" d="M2802 1983l0 0c21,51 35,104 42,158l-620 82 -1 0 579 -240z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s6" side="left">Pakilumas</textPath>
+                <textPath startOffset="100%" href="#l1s6">Pakilumas</textPath>
             </text>
         </g>
         <g data-id="7">
             <path class="fil4" d="M2222 2222l1 0 0 0 1 0 620 -82 0 1c7,54 7,109 0,163l-620 -82 -1 0 0 0 0 0 -1 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s7" side="left">Teisingumas</textPath>
+                <textPath startOffset="100%" href="#l1s7">Teisingumas</textPath>
             </text>
         </g>
         <g data-id="8">
             <path class="fil4" d="M2222 2222l1 0 0 0 0 0 0 0 2 1 576 239c22,-51 36,-104 43,-157l0 -1 -620 -82 -1 0 0 0 0 0 -1 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s8" side="left">Nepriekaištingumas</textPath>
+                <textPath startOffset="100%" href="#l1s8">Nepriekaištingumas</textPath>
             </text>
         </g>
         <g data-id="9">
             <path class="fil4" d="M2801 2462l0 0c-21,51 -48,98 -81,142l-497 -381 0 0 578 239z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s9" side="left">Susižavėjimas</textPath>
+                <textPath startOffset="100%" href="#l1s9">Susižavėjimas</textPath>
             </text>
         </g>
         <g data-id="10">
             <path class="fil4" d="M2222 2222l1 0 0 1 0 0 497 381 -1 0c-33,43 -72,82 -115,115l-380 -495 -1 -1 0 0 0 -1 -1 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s10" side="left">Ištvermė</textPath>
+                <textPath startOffset="100%" href="#l1s10">Ištvermė</textPath>
             </text>
         </g>
         <g data-id="11">
             <path class="fil4" d="M2222 2222l0 0 1 1 0 0 0 0 0 1 239 577c51,-21 99,-48 141,-81l1 -1 -380 -495 -1 -1 0 0 0 -1 -1 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s11" side="left">Ištikimybė</textPath>
+                <textPath startOffset="100%" href="#l1s11">Ištikimybė</textPath>
             </text>
         </g>
         <g data-id="12">
             <path class="fil4" d="M2462 2801l0 0c-51,21 -104,35 -158,42l-81 -619 0 -1 239 578z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s12" side="left">Gerumas</textPath>
+                <textPath startOffset="100%" href="#l1s12">Gerumas</textPath>
             </text>
         </g>
         <g data-id="13">
             <path class="fil4" d="M2222 2222l0 1 1 0 0 1 81 619 0 1c-54,7 -109,7 -163,0l81 -620 0 -1 0 0 0 -1 0 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s13" side="left">Vedimas</textPath>
+                <textPath startOffset="100%" href="#l1s13">Vedimas</textPath>
             </text>
         </g>
         <g data-id="14">
             <path class="fil4" d="M2222 2222l0 0 0 1 0 0 0 0 -1 1 -238 577c50,21 103,35 157,42l1 1 81 -620 0 -1 0 0 0 -1 0 0z"/>
             <text class="hasPath text1" text-anchor="end">
-                <textPath startOffset="100%" href="#l1s14" side="left">Susiliejimas</textPath>
+                <textPath startOffset="100%" href="#l1s14">Susiliejimas</textPath>
             </text>
         </g>
         <g data-id="15">
             <path class="fil4" d="M1983 2801l-1 0c-50,-21 -98,-49 -141,-82l381 -496 0 0 -239 578z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s15" side="right">Čia ir Dabar</textPath>
+                <textPath startOffset="0%" href="#l1s15">Čia ir Dabar</textPath>
             </text>
         </g>
         <g data-id="16">
             <path class="fil4" d="M2223 2222l-1 1 0 0 0 1 -381 496 0 -1c-43,-33 -82,-72 -116,-115l496 -380 1 -1 0 0 0 0 1 -1z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s16" side="right">Tvirtumas</textPath>
+                <textPath startOffset="0%" href="#l1s16">Tvirtumas</textPath>
             </text>
         </g>
         <g data-id="17">
             <path class="fil4" d="M2223 2222l-1 0 0 1 0 0 0 0 -2 0 -576 239c21,51 48,99 81,141l0 1 496 -380 1 -1 0 0 0 0 1 -1z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s17" side="right">Nepažeidžiamumas</textPath>
+                <textPath startOffset="0%" href="#l1s17">Nepažeidžiamumas</textPath>
             </text>
         </g>
         <g data-id="18">
             <path class="fil4" d="M1644 2462l-1 0c-21,-51 -35,-104 -42,-158l620 -81 1 0 -578 239z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s18" side="right">Genialumas</textPath>
+                <textPath startOffset="0%" href="#l1s18">Genialumas</textPath>
             </text>
         </g>
         <g data-id="19">
             <path class="fil4" d="M2223 2222l-1 0 0 1 -1 0 -620 81 0 0c-7,-54 -7,-109 0,-163l620 81 1 0 0 0 0 0 1 0z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s19" side="right">Lankstumas</textPath>
+                <textPath startOffset="0%" href="#l1s19">Lankstumas</textPath>
             </text>
         </g>
         <g data-id="20">
             <path class="fil4" d="M2223 2222l-1 0 0 0 0 0 0 0 -2 -1 -577 -238c-21,50 -35,103 -42,157l0 1 620 81 1 0 0 0 0 0 1 0z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s20" side="right">Natūralumas</textPath>
+                <textPath startOffset="0%" href="#l1s20">Natūralumas</textPath>
             </text>
         </g>
         <g data-id="21">
             <path class="fil4" d="M1643 1983l0 0c22,-51 49,-98 82,-142l496 381 1 0 -579 -239z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s21" side="right">Vientisumas</textPath>
+                <textPath startOffset="0%" href="#l1s21">Vientisumas</textPath>
             </text>
         </g>
         <g data-id="22">
             <path class="fil4" d="M2222 2223l0 0 0 -1 -1 0 -496 -381 1 0c33,-43 71,-82 115,-115l380 495 1 1 0 0 0 1 0 0z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s22" side="right">Rūpestingumas</textPath>
+                <textPath startOffset="0%" href="#l1s22">Rūpestingumas</textPath>
             </text>
         </g>
         <g data-id="23">
             <path class="fil4" d="M2222 2223l0 0 0 -1 0 0 0 0 -1 -1 -238 -577c-51,21 -99,48 -142,81l0 1 380 495 1 1 0 0 0 1 0 0z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s23" side="right">Kilnumas</textPath>
+                <textPath startOffset="0%" href="#l1s23">Kilnumas</textPath>
             </text>
         </g>
         <g data-id="24">
             <path class="fil4" d="M1983 1644l0 0c51,-21 104,-35 158,-43l81 620 0 1 -239 -578z"/>
             <text class="hasPath text1" text-anchor="start">
-                <textPath startOffset="0%" href="#l1s24" side="right">Gilumas</textPath>
+                <textPath startOffset="0%" href="#l1s24">Gilumas</textPath>
             </text>
         </g>
         <g data-id="25">
             <path class="fil0" d="M2106 1336c0,0 1,0 1,0 79,-10 157,-10 232,0l-35 265c-52,-7 -107,-7 -162,0l-1 0 -35 -265 0 0z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s1" side="left">Ramumas</textPath>
+                <textPath startOffset="0%" href="#l2s1">Ramumas</textPath>
             </text>
         </g>
         <g data-id="26">
             <path class="fil0" d="M2339 1336l1 0c78,10 154,31 225,60l-102 248c-50,-21 -103,-36 -158,-43l-1 0 35 -265z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s2" side="left">Nušvitimas</textPath>
+                <textPath startOffset="0%" href="#l2s2">Nušvitimas</textPath>
             </text>
         </g>
         <g data-id="27">
             <path class="fil0" d="M2565 1396l0 1c72,30 140,69 202,116l-163 212c-43,-33 -90,-60 -141,-81l0 0 102 -248z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s3" side="left">Nuoširdumas</textPath>
+                <textPath startOffset="0%" href="#l2s3">Nuoširdumas</textPath>
             </text>
         </g>
         <g data-id="28">
             <path class="fil0" d="M2767 1513l0 0c62,48 117,103 165,165l-212 163c-33,-43 -72,-82 -116,-115l0 -1 163 -212z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s4" side="left">Atsakomybė</textPath>
+                <textPath startOffset="0%" href="#l2s4">Atsakomybė</textPath>
             </text>
         </g>
         <g data-id="29">
             <path class="fil0" d="M2932 1678l0 0c47,62 87,129 117,202l-247 103c-21,-51 -49,-99 -82,-142l0 0 212 -163z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s5" side="left">Komunikabilumas</textPath>
+                <textPath startOffset="0%" href="#l2s5">Komunikabilumas</textPath>
             </text>
         </g>
         <g data-id="30">
             <path class="fil0" d="M3049 1880l0 1c29,70 50,145 60,225l0 0 -265 35 0 -1c-7,-55 -22,-108 -42,-157l0 0 247 -103z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s6" side="left">Lengvumas</textPath>
+                <textPath startOffset="0%" href="#l2s6">Lengvumas</textPath>
             </text>
         </g>
         <g data-id="31">
             <path class="fil0" d="M3109 2106l0 0c11,79 10,158 0,233l0 0 -265 -35 0 0c7,-53 7,-108 0,-163l0 0 265 -35z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s7" side="left">Veržlumas</textPath>
+                <textPath startOffset="0%" href="#l2s7">Veržlumas</textPath>
             </text>
         </g>
         <g data-id="32">
             <path class="fil0" d="M3109 2339c-10,79 -30,154 -60,226l0 0 -247 -102 0 -1c21,-50 35,-103 42,-158l265 35z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s8" side="right">Tikslumas</textPath>
+                <textPath startOffset="0%" href="#l2s8">Tikslumas</textPath>
             </text>
         </g>
         <g data-id="33">
             <path class="fil0" d="M3049 2565c-30,72 -69,140 -117,202l0 0 -212 -163 0 0c33,-43 61,-91 82,-141l247 102z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s9" side="right">Gėrėjimasis</textPath>
+                <textPath startOffset="0%" href="#l2s9">Gėrėjimasis</textPath>
             </text>
         </g>
         <g data-id="34">
             <path class="fil0" d="M2932 2767c-47,62 -103,117 -165,165l0 0 -163 -212 1 0c43,-34 82,-73 115,-116l212 163z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s10" side="right">Kantrybė</textPath>
+                <textPath startOffset="0%" href="#l2s10">Kantrybė</textPath>
             </text>
         </g>
         <g data-id="35">
             <path class="fil0" d="M2767 2932c-61,47 -129,87 -202,117l0 0 -102 -247 0 0c51,-22 98,-49 141,-82l163 212z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s11" side="right">Trauka</textPath>
+                <textPath startOffset="0%" href="#l2s11">Trauka</textPath>
             </text>
         </g>
         <g data-id="36">
             <path class="fil0" d="M2565 3049c-71,29 -146,50 -225,60l-1 0 0 0 -35 -265 1 0c55,-7 108,-22 158,-42l102 247z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s12" side="right">Pilnatvė</textPath>
+                <textPath startOffset="0%" href="#l2s12">Pilnatvė</textPath>
             </text>
         </g>
         <g data-id="37">
             <path class="fil0" d="M2339 3109c-79,11 -157,10 -232,1l-1 -1 35 -265 1 0c53,7 107,7 162,0l0 0 35 265z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s13" side="right">Patikimumas</textPath>
+                <textPath startOffset="0%" href="#l2s13">Patikimumas</textPath>
             </text>
         </g>
         <g data-id="38">
             <path class="fil0" d="M2106 3109c-78,-10 -154,-30 -225,-60l-1 0 103 -247 1 0c49,21 102,35 157,42l-35 265z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s14" side="right">Užsidegimas</textPath>
+                <textPath startOffset="0%" href="#l2s14">Užsidegimas</textPath>
             </text>
         </g>
         <g data-id="39">
             <path class="fil0" d="M1880 3049c-72,-30 -139,-69 -201,-117l-1 0 163 -212 1 0c43,33 90,61 141,82l-103 247z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s15" side="right">GyvenimoAistra</textPath>
+                <textPath startOffset="0%" href="#l2s15">Gyvenimo Aistra</textPath>
             </text>
         </g>
         <g data-id="40">
             <path class="fil0" d="M1678 2932c-61,-47 -117,-103 -165,-165l0 0 212 -163 1 1c33,43 72,82 115,115l-163 212z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s16" side="right">Drąsumas</textPath>
+                <textPath startOffset="0%" href="#l2s16">Drąsumas</textPath>
             </text>
         </g>
         <g data-id="41">
             <path class="fil0" d="M1513 2767c-47,-61 -86,-129 -117,-202l0 0 248 -102 0 0c21,51 48,98 81,141l-212 163z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s17" side="right">Numatymas</textPath>
+                <textPath startOffset="0%" href="#l2s17">Numatymas</textPath>
             </text>
         </g>
         <g data-id="42">
             <path class="fil0" d="M1396 2565c-29,-71 -49,-146 -60,-226l0 0 265 -35 0 0c8,56 22,109 43,159l-248 102z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s18" side="right">Išradingumas</textPath>
+                <textPath startOffset="0%" href="#l2s18">Išradingumas</textPath>
             </text>
         </g>
         <g data-id="43">
             <path class="fil0" d="M1336 2339l0 -1c-10,-79 -10,-157 0,-232l265 35c-7,53 -7,107 0,163l0 0 -265 35z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s19" side="right">Dėmesingumas</textPath>
+                <textPath startOffset="0%" href="#l2s19">Dėmesingumas</textPath>
             </text>
         </g>
         <g data-id="44">
             <path class="fil0" d="M1336 2106l0 0c10,-79 31,-154 60,-226l248 103c-21,50 -36,103 -43,158l0 0 -265 -35z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s20" side="left">Laisvumas</textPath>
+                <textPath startOffset="0%" href="#l2s20">Laisvumas</textPath>
             </text>
         </g>
         <g data-id="45">
             <path class="fil0" d="M1396 1880l1 0c30,-72 69,-140 116,-202l213 163c-34,43 -61,91 -82,141l0 1 -248 -103z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s21" side="left">Pilnavertiškumas</textPath>
+                <textPath startOffset="0%" href="#l2s21">Pilnavertiškumas</textPath>
             </text>
         </g>
         <g data-id="46">
             <path class="fil0" d="M1513 1678l1 0c47,-62 102,-117 164,-165l163 212c-43,34 -82,73 -115,116l0 0 -213 -163z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s22" side="left">Atjauta</textPath>
+                <textPath startOffset="0%" href="#l2s22">Atjauta</textPath>
             </text>
         </g>
         <g data-id="47">
             <path class="fil0" d="M1678 1513l1 0c61,-47 129,-87 201,-117l103 248c-51,21 -98,48 -141,81l-1 0 -163 -212z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s23" side="left">Dosnumas</textPath>
+                <textPath startOffset="0%" href="#l2s23">Dosnumas</textPath>
             </text>
         </g>
         <g data-id="48">
             <path class="fil0" d="M1880 1396l1 0c71,-29 146,-49 225,-60l35 265 0 0c-55,8 -108,22 -157,42l-1 1 -103 -248z"/>
             <text class="hasPath text2" text-anchor="start">
-                <textPath startOffset="0%" href="#l2s24" side="left">Išmintis</textPath>
+                <textPath startOffset="0%" href="#l2s24">Išmintis</textPath>
             </text>
         </g>
         <g data-id="49">
             <path class="fil0" d="M2072 1076c0,0 0,0 1,0 102,-13 203,-13 301,0l-35 260c-75,-10 -153,-10 -232,0 0,0 -1,0 -1,0l0 0 -34 -260z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s1" side="left">Saugumas</textPath>
+                <textPath startOffset="0%" href="#l3s1">Saugumas</textPath>
             </text>
         </g>
         <g data-id="50">
             <path class="fil0" d="M2374 1076l0 0c101,13 199,40 291,78l-100 242c-71,-29 -147,-50 -225,-60l-1 0 35 -260z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s2" side="left">Supratimas</textPath>
+                <textPath startOffset="0%" href="#l3s2">Supratimas</textPath>
             </text>
         </g>
         <g data-id="51">
             <path class="fil0" d="M2665 1154l0 0c94,39 182,90 261,151l-159 208c-62,-47 -130,-86 -202,-116l0 -1 100 -242z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s3" side="left">Garbingumas</textPath>
+                <textPath startOffset="0%" href="#l3s3">Garbingumas</textPath>
             </text>
         </g>
         <g data-id="52">
             <path class="fil0" d="M2926 1305l1 1c79,61 151,132 213,213l-208 159c-48,-62 -103,-117 -165,-165l0 0 159 -208z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s4" side="left">Sąžiningumas</textPath>
+                <textPath startOffset="0%" href="#l3s4">Sąžiningumas</textPath>
             </text>
         </g>
         <g data-id="53">
             <path class="fil0" d="M3140 1519l0 0c61,79 112,167 151,261l-242 100c-30,-73 -70,-140 -117,-202l0 0 208 -159z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s5" side="left">Bendravimas</textPath>
+                <textPath startOffset="0%" href="#l3s5">Bendravimas</textPath>
             </text>
         </g>
         <g data-id="54">
             <path class="fil0" d="M3291 1780l0 0c38,91 64,189 78,291l0 1 -260 34 0 0c-10,-80 -31,-155 -60,-225l0 -1 242 -100z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s6" side="left">Žaismingumas</textPath>
+                <textPath startOffset="0%" href="#l3s6">Žaismingumas</textPath>
             </text>
         </g>
         <g data-id="55">
             <path class="fil0" d="M3369 2072c14,102 13,204 0,302l0 0 -260 -35 0 0c10,-75 11,-154 0,-233l0 0 260 -34z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s7" side="left">Atsidavimas</textPath>
+                <textPath startOffset="0%" href="#l3s7">Atsidavimas</textPath>
             </text>
         </g>
         <g data-id="56">
             <path class="fil0" d="M3369 2374c-13,101 -40,199 -78,291l0 0 -242 -100 0 0c30,-72 50,-147 60,-226l260 35z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s8" side="right">Susikaupimas</textPath>
+                <textPath startOffset="0%" href="#l3s8">Susikaupimas</textPath>
             </text>
         </g>
         <g data-id="57">
             <path class="fil0" d="M3291 2665c-39,94 -90,181 -151,261l0 0 -208 -159 0 0c48,-62 87,-130 117,-202l242 100z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s9" side="right">Gerbimas</textPath>
+                <textPath startOffset="0%" href="#l3s9">Gerbimas</textPath>
             </text>
         </g>
         <g data-id="58">
             <path class="fil0" d="M3140 2926c-61,80 -133,152 -213,214l0 0 -160 -208 0 0c62,-48 118,-103 165,-165l208 159z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s10" side="right">Valdymasis</textPath>
+                <textPath startOffset="0%" href="#l3s10">Valdymasis</textPath>
             </text>
         </g>
         <g data-id="59">
             <path class="fil0" d="M2927 3140c-80,61 -167,112 -261,151l-1 0 -100 -242 0 0c73,-30 141,-70 202,-117l160 208z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s11" side="right">Draugystė</textPath>
+                <textPath startOffset="0%" href="#l3s11">Draugystė</textPath>
             </text>
         </g>
         <g data-id="60">
             <path class="fil0" d="M2665 3291c-91,38 -189,64 -291,78l0 0 -35 -260 0 0 1 0c79,-10 154,-31 225,-60l100 242z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s12" side="right">Džiaugsmas</textPath>
+                <textPath startOffset="0%" href="#l3s12">Džiaugsmas</textPath>
             </text>
         </g>
         <g data-id="61">
             <path class="fil0" d="M2374 3369c-103,13 -204,13 -301,0l-1 0 34 -260 1 1c75,9 153,10 232,-1l35 260z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s13" side="right">Užtikrintumas</textPath>
+                <textPath startOffset="0%" href="#l3s13">Užtikrintumas</textPath>
             </text>
         </g>
         <g data-id="62">
             <path class="fil0" d="M2072 3369c-101,-13 -199,-40 -291,-78l-1 0 100 -242 1 0c71,30 147,50 225,60l-34 260z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s14" side="right">Domėjimasis</textPath>
+                <textPath startOffset="0%" href="#l3s14">Domėjimasis</textPath>
             </text>
         </g>
         <g data-id="63">
             <path class="fil0" d="M1780 3291c-93,-39 -181,-90 -261,-151l0 0 159 -208 1 0c62,48 129,87 201,117l-100 242z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s15" side="right">Sąmoningumas</textPath>
+                <textPath startOffset="0%" href="#l3s15">Sąmoningumas</textPath>
             </text>
         </g>
         <g data-id="64">
             <path class="fil0" d="M1519 3140c-80,-61 -152,-133 -213,-213l-1 0 208 -160 0 0c48,62 104,118 165,165l-159 208z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s16" side="right">Žingeidumas</textPath>
+                <textPath startOffset="0%" href="#l3s16">Žingeidumas</textPath>
             </text>
         </g>
         <g data-id="65">
             <path class="fil0" d="M1305 2927c-61,-80 -112,-167 -151,-262l0 0 242 -100 0 0c31,73 70,141 117,202l-208 160z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s17" side="right">Apdairumas</textPath>
+                <textPath startOffset="0%" href="#l3s17">Apdairumas</textPath>
             </text>
         </g>
         <g data-id="66">
             <path class="fil0" d="M1154 2665c-38,-91 -64,-189 -78,-291l260 -35 0 0c11,80 31,155 60,226l-242 100z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s18" side="right">Kūrybiškumas</textPath>
+                <textPath startOffset="0%" href="#l3s18">Kūrybiškumas</textPath>
             </text>
         </g>
         <g data-id="67">
             <path class="fil0" d="M1076 2374l0 -1c-13,-103 -13,-204 0,-301l260 34c-10,75 -10,153 0,232l0 1 -260 35z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s19" side="right">Pastabumas</textPath>
+                <textPath startOffset="0%" href="#l3s19">Pastabumas</textPath>
             </text>
         </g>
         <g data-id="68">
             <path class="fil0" d="M1076 2072l0 -1c13,-101 40,-199 78,-291l242 100c-29,72 -50,147 -60,226l0 0 -260 -34z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s20" side="left">Nesipriešinimas</textPath>
+                <textPath startOffset="0%" href="#l3s20">Nesipriešinimas</textPath>
             </text>
         </g>
         <g data-id="69">
             <path class="fil0" d="M1154 1780l1 0c38,-94 89,-181 150,-261l208 159c-47,62 -86,130 -116,202l-1 0 -242 -100z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s21" side="left">Orumas</textPath>
+                <textPath startOffset="0%" href="#l3s21">Orumas</textPath>
             </text>
         </g>
         <g data-id="70">
             <path class="fil0" d="M1305 1519l1 -1c61,-79 133,-151 213,-213l159 208c-62,48 -117,103 -164,165l-1 0 -208 -159z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s22" side="left">Empatija</textPath>
+                <textPath startOffset="0%" href="#l3s22">Empatija</textPath>
             </text>
         </g>
         <g data-id="71">
             <path class="fil0" d="M1519 1305l0 0c80,-61 167,-112 261,-151l100 242c-72,30 -140,70 -201,117l-1 0 -159 -208z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s23" side="left">Dovanojimas</textPath>
+                <textPath startOffset="0%" href="#l3s23">Dovanojimas</textPath>
             </text>
         </g>
         <g data-id="72">
             <path class="fil0" d="M1780 1154l1 0c91,-38 188,-64 291,-78l34 260c-79,11 -154,31 -225,60l-1 0 -100 -242z"/>
             <text class="hasPath text3" text-anchor="start">
-                <textPath startOffset="0%" href="#l3s24" side="left">Nuovokumas</textPath>
+                <textPath startOffset="0%" href="#l3s24">Nuovokumas</textPath>
             </text>
         </g>
         <g data-id="73">
             <path class="fil0" d="M2038 817c0,0 0,0 1,0 125,-17 249,-16 369,0l-34 259c-98,-13 -199,-13 -301,0 -1,0 -1,0 -1,0l-34 -259z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s1" side="left">Abejonė</textPath>
+                <textPath startOffset="0%" href="#l4s1">Abejonė</textPath>
             </text>
         </g>
         <g data-id="74">
             <path class="fil0" d="M2408 817l0 0c124,16 244,49 357,96l-100 241c-92,-38 -190,-65 -291,-78l0 0 34 -259z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s2" side="left">Nustebimas</textPath>
+                <textPath startOffset="0%" href="#l4s2">Nustebimas</textPath>
             </text>
         </g>
         <g data-id="75">
             <path class="fil0" d="M2765 913l1 0c114,47 222,110 320,185l-160 207c-79,-61 -167,-112 -261,-151l0 0 100 -241z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s3" side="left">Paprastumas</textPath>
+                <textPath startOffset="0%" href="#l4s3">Paprastumas</textPath>
             </text>
         </g>
         <g data-id="76">
             <path class="fil0" d="M3086 1098l0 0c98,75 186,163 262,261l-208 160c-62,-81 -134,-152 -213,-213l-1 -1 160 -207z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s4" side="left">Pareigingumas</textPath>
+                <textPath startOffset="0%" href="#l4s4">Pareigingumas</textPath>
             </text>
         </g>
         <g data-id="77">
             <path class="fil0" d="M3348 1359l0 1c74,97 137,204 185,320l-242 100c-39,-94 -90,-182 -151,-261l0 0 208 -160z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s5" side="left">Pasitikėjimas</textPath>
+                <textPath startOffset="0%" href="#l4s5">Pasitikėjimas</textPath>
             </text>
         </g>
         <g data-id="78">
             <path class="fil0" d="M3533 1680l0 0c46,112 79,232 95,357l0 1 -259 34 0 -1c-14,-102 -40,-200 -78,-291l0 0 242 -100z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s6" side="left">Juokavimas</textPath>
+                <textPath startOffset="0%" href="#l4s6">Juokavimas</textPath>
             </text>
         </g>
         <g data-id="79">
             <path class="fil0" d="M3628 2038l0 0c17,125 17,250 1,370l0 0 -260 -34 0 0c13,-98 14,-200 0,-302l259 -34z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s7" side="left">Atkaklumas</textPath>
+                <textPath startOffset="0%" href="#l4s7">Atkaklumas</textPath>
             </text>
         </g>
         <g data-id="80">
             <path class="fil0" d="M3629 2408c-17,124 -49,244 -96,357l0 0 -242 -100 0 0c38,-92 65,-190 78,-291l260 34z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s8" side="right">Pasitempimas</textPath>
+                <textPath startOffset="0%" href="#l4s8">Pasitempimas</textPath>
             </text>
         </g>
         <g data-id="81">
             <path class="fil0" d="M3533 2765c-48,115 -110,223 -185,321l-1 0 -207 -160 0 0c61,-80 112,-167 151,-261l242 100z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s9" side="right">Pagyrimas</textPath>
+                <textPath startOffset="0%" href="#l4s9">Pagyrimas</textPath>
             </text>
         </g>
         <g data-id="82">
             <path class="fil0" d="M3347 3086c-75,98 -162,186 -261,261l0 1 -159 -208 0 0c80,-62 152,-134 213,-214l207 160z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s10" side="right">Pakantumas</textPath>
+                <textPath startOffset="0%" href="#l4s10">Pakantumas</textPath>
             </text>
         </g>
         <g data-id="83">
             <path class="fil0" d="M3086 3348c-97,74 -205,137 -320,185l-1 0 -100 -242 1 0c94,-39 181,-90 261,-151l159 208z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s11" side="right">Priėmimas</textPath>
+                <textPath startOffset="0%" href="#l4s11">Priėmimas</textPath>
             </text>
         </g>
         <g data-id="84">
             <path class="fil0" d="M2765 3533c-112,46 -231,79 -357,95l0 0 -34 -259 0 0c102,-14 200,-40 291,-78l100 242z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s12" side="right">Linksmumas</textPath>
+                <textPath startOffset="0%" href="#l4s12">Linksmumas</textPath>
             </text>
         </g>
         <g data-id="85">
             <path class="fil0" d="M2072 3369l1 0c97,13 198,13 301,0l34 259 0 0c-126,17 -250,16 -369,1l-1 0 34 -260z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s13" side="right">Tikėjimas Optimizmas</textPath>
+                <textPath startOffset="0%" href="#l4s13">Tikėjimas Optimizmas</textPath>
             </text>
         </g>
         <g data-id="86">
             <path class="fil0" d="M1780 3291l1 0c92,38 190,65 291,78l-34 260c-124,-17 -244,-49 -357,-96l-1 0 100 -242z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s14" side="right">Analizė</textPath>
+                <textPath startOffset="0%" href="#l4s14">Analizė</textPath>
             </text>
         </g>
         <g data-id="87">
             <path class="fil0" d="M1519 3140l0 0c80,61 168,112 261,151l-100 242c-115,-48 -222,-110 -320,-185l0 -1 159 -207z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s15" side="right">Saikingumas</textPath>
+                <textPath startOffset="0%" href="#l4s15">Saikingumas</textPath>
             </text>
         </g>
         <g data-id="88">
             <path class="fil0" d="M1305 2927l1 0c61,80 133,152 213,213l-159 207c-98,-75 -186,-162 -262,-261l0 0 207 -159z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s16" side="right">Smalsumas</textPath>
+                <textPath startOffset="0%" href="#l4s16">Smalsumas</textPath>
             </text>
         </g>
         <g data-id="89">
             <path class="fil0" d="M1154 2665l0 0c39,95 90,182 151,262l-207 159c-75,-97 -138,-205 -185,-320l-1 -1 242 -100z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s17" side="right">Atsargumas</textPath>
+                <textPath startOffset="0%" href="#l4s17">Atsargumas</textPath>
             </text>
         </g>
         <g data-id="90">
             <path class="fil0" d="M1076 2374c14,102 40,200 78,291l-242 100c-46,-112 -79,-231 -95,-357l0 0 259 -34z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s18" side="right">Sumanumas</textPath>
+                <textPath startOffset="0%" href="#l4s18">Sumanumas</textPath>
             </text>
         </g>
         <g data-id="91">
             <path class="fil0" d="M1076 2072c-13,97 -13,198 0,301l0 1 -259 34 0 -1c-17,-126 -16,-250 0,-369l259 34z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s19" side="right">Prisitaikymas</textPath>
+                <textPath startOffset="0%" href="#l4s19">Prisitaikymas</textPath>
             </text>
         </g>
         <g data-id="92">
             <path class="fil0" d="M1154 1780c-38,92 -65,190 -78,291l0 1 -259 -34 0 -1c16,-124 49,-244 96,-357l241 100z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s20" side="left">Neprisirišimas</textPath>
+                <textPath startOffset="0%" href="#l4s20">Neprisirišimas</textPath>
             </text>
         </g>
         <g data-id="93">
             <path class="fil0" d="M1305 1519c-61,80 -112,167 -150,261l-1 0 -241 -100 0 -1c47,-114 110,-222 185,-319l207 159z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s21" side="left">Savarankiškumas</textPath>
+                <textPath startOffset="0%" href="#l4s21">Savarankiškumas</textPath>
             </text>
         </g>
         <g data-id="94">
             <path class="fil0" d="M1519 1305c-80,62 -152,134 -213,213l-1 1 -207 -159 0 -1c75,-98 163,-186 261,-261l160 207z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s22" side="left">Užuojauta</textPath>
+                <textPath startOffset="0%" href="#l4s22">Užuojauta</textPath>
             </text>
         </g>
         <g data-id="95">
             <path class="fil0" d="M1780 1154c-94,39 -181,90 -261,151l0 0 -160 -207 1 -1c97,-74 204,-137 320,-185l100 242z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s23" side="left">Atlaidumas</textPath>
+                <textPath startOffset="0%" href="#l4s23">Atlaidumas</textPath>
             </text>
         </g>
         <g data-id="96">
             <path class="fil0" d="M2038 817l0 0 34 259c-103,14 -200,40 -291,78l-1 0 -100 -242 1 0c112,-46 231,-79 357,-95z"/>
             <text class="hasPath text4" text-anchor="start">
-                <textPath startOffset="0%" href="#l4s24" side="left">Susimąstymas</textPath>
+                <textPath startOffset="0%" href="#l4s24">Susimąstymas</textPath>
             </text>
         </g>
         <g data-id="97">
             <path class="fil2" d="M2019 674c0,0 1,0 1,0 138,-18 275,-17 407,0l-19 143c-120,-16 -244,-17 -369,0 -1,0 -1,0 -1,0l-19 -143z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s1" side="left">Vertinimas</textPath>
+                <textPath startOffset="0%" href="#l5s1">Vertinimas</textPath>
             </text>
         </g>
         <g data-id="98">
             <path class="fil2" d="M2427 674l0 0c137,18 269,54 393,106l-55 133c-113,-47 -233,-80 -357,-96l0 0 19 -143z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s2" side="left">Nežinojimas</textPath>
+                <textPath startOffset="0%" href="#l5s2">Nežinojimas</textPath>
             </text>
         </g>
         <g data-id="99">
             <path class="fil2" d="M2820 780l1 0c126,52 244,121 352,204l-87 114c-98,-75 -206,-138 -320,-185l-1 0 55 -133z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s3" side="left">Tiesmukiškumas</textPath>
+                <textPath startOffset="0%" href="#l5s3">Tiesmukiškumas</textPath>
             </text>
         </g>
         <g data-id="100">
             <path class="fil2" d="M3173 984l0 0c108,83 205,179 289,288l-114 87c-76,-98 -164,-186 -262,-261l0 0 87 -114z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s4" side="left">Saugojimas</textPath>
+                <textPath startOffset="0%" href="#l5s4">Saugojimas</textPath>
             </text>
         </g>
         <g data-id="101">
             <path class="fil2" d="M3462 1272l0 0c82,107 151,225 204,353l-133 55c-48,-116 -111,-223 -185,-320l0 -1 114 -87z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s5" side="left">Atviravimas</textPath>
+                <textPath startOffset="0%" href="#l5s5">Atviravimas</textPath>
             </text>
         </g>
         <g data-id="102">
             <path class="fil2" d="M3666 1625l0 0c51,123 87,255 105,394l0 0 -143 19 0 -1c-16,-125 -49,-245 -95,-357l0 0 133 -55z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s6" side="left">Juokdarystė</textPath>
+                <textPath startOffset="0%" href="#l5s6">Juokdarystė</textPath>
             </text>
         </g>
         <g data-id="103">
             <path class="fil2" d="M3771 2019c18,138 18,275 0,407l0 1 -142 -19 0 0c15,-120 16,-245 -1,-370l0 0 143 -19z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s7" side="left">Užsispyrimas</textPath>
+                <textPath startOffset="0%" href="#l5s7">Užsispyrimas</textPath>
             </text>
         </g>
         <g data-id="104">
             <path class="fil2" d="M3771 2427c-18,136 -54,269 -105,393l0 0 -133 -55 0 0c47,-113 79,-233 96,-357l142 19z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s8" side="right">Nepatogumas</textPath>
+                <textPath startOffset="0%" href="#l5s8">Nepatogumas</textPath>
             </text>
         </g>
         <g data-id="105">
             <path class="fil2" d="M3666 2820c-53,127 -122,245 -204,353l0 0 -115 -87 1 0c75,-98 137,-206 185,-321l133 55z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s9" side="right">Liaupsinimas</textPath>
+                <textPath startOffset="0%" href="#l5s9">Liaupsinimas</textPath>
             </text>
         </g>
         <g data-id="106">
             <path class="fil2" d="M3462 3173c-83,108 -180,205 -288,289l-1 0 -87 -114 0 -1c99,-75 186,-163 261,-261l115 87z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s10" side="right">Pamokslavimas</textPath>
+                <textPath startOffset="0%" href="#l5s10">Pamokslavimas</textPath>
             </text>
         </g>
         <g data-id="107">
             <path class="fil2" d="M3173 3462c-107,82 -225,151 -352,204l-1 0 -55 -133 1 0c115,-48 223,-111 320,-185l87 114z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s11" side="right">Prisirišimas</textPath>
+                <textPath startOffset="0%" href="#l5s11">Prisirišimas</textPath>
             </text>
         </g>
         <g data-id="108">
             <path class="fil2" d="M2820 3666c-123,51 -255,87 -393,105l0 0 -19 -143 0 0c126,-16 245,-49 357,-95l55 133z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s12" side="right">Pasilinksminimas</textPath>
+                <textPath startOffset="0%" href="#l5s12">Pasilinksminimas</textPath>
             </text>
         </g>
         <g data-id="109">
             <path class="fil2" d="M2427 3771c-139,18 -275,18 -407,0l-1 0 19 -142 1 0c119,15 243,16 369,-1l0 0 19 143z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s13" side="right">Perdėtas Pasitikėjimas</textPath>
+                <textPath startOffset="0%" href="#l5s13">Perdėtas Pasitikėjimas</textPath>
             </text>
         </g>
         <g data-id="110">
             <path class="fil2" d="M2019 3771c-137,-18 -269,-53 -393,-105l-1 0 55 -133 1 0c113,47 233,79 357,96l-19 142z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s14" side="right">Laukimas</textPath>
+                <textPath startOffset="0%" href="#l5s14">Laukimas</textPath>
             </text>
         </g>
         <g data-id="111">
             <path class="fil2" d="M1625 3666c-126,-53 -245,-121 -352,-204l-1 0 88 -115 0 1c98,75 205,137 320,185l-55 133z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s15" side="right">Kasdienybė</textPath>
+                <textPath startOffset="0%" href="#l5s15">Kasdienybė</textPath>
             </text>
         </g>
         <g data-id="112">
             <path class="fil2" d="M1272 3462c-108,-83 -205,-180 -288,-288l0 -1 114 -87 0 0c76,99 164,186 262,261l-88 115z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s16" side="right">Landumas</textPath>
+                <textPath startOffset="0%" href="#l5s16">Landumas</textPath>
             </text>
         </g>
         <g data-id="113">
             <path class="fil2" d="M984 3173c-83,-106 -152,-225 -204,-352l0 -1 132 -55 1 1c47,115 110,223 185,320l-114 87z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s17" side="right">Konservatyvumas</textPath>
+                <textPath startOffset="0%" href="#l5s17">Konservatyvumas</textPath>
             </text>
         </g>
         <g data-id="114">
             <path class="fil2" d="M780 2820c-51,-123 -87,-255 -106,-393l143 -19 0 0c16,126 49,245 95,357l-132 55z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s18" side="right">Apsukrumas</textPath>
+                <textPath startOffset="0%" href="#l5s18">Apsukrumas</textPath>
             </text>
         </g>
         <g data-id="115">
             <path class="fil2" d="M674 2427l0 -2c-18,-138 -17,-274 0,-406l143 19c-16,119 -17,243 0,369l0 1 -143 19z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s19" side="right">Nuolankumas</textPath>
+                <textPath startOffset="0%" href="#l5s19">Nuolankumas</textPath>
             </text>
         </g>
         <g data-id="116">
             <path class="fil2" d="M674 2019l0 -1c18,-136 54,-268 106,-393l133 55c-47,113 -80,233 -96,357l0 1 -143 -19z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s20" side="left">Atsipalaidavimas</textPath>
+                <textPath startOffset="0%" href="#l5s20">Atsipalaidavimas</textPath>
             </text>
         </g>
         <g data-id="117">
             <path class="fil2" d="M780 1625l0 -1c52,-126 121,-244 204,-352l114 88c-75,97 -138,205 -185,319l0 1 -133 -55z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s21" side="left">Pasikėlimas</textPath>
+                <textPath startOffset="0%" href="#l5s21">Pasikėlimas</textPath>
             </text>
         </g>
         <g data-id="118">
             <path class="fil2" d="M984 1272l0 -1c83,-107 180,-204 288,-287l87 114c-98,75 -186,163 -261,261l0 1 -114 -88z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s22" side="left">Gailestis</textPath>
+                <textPath startOffset="0%" href="#l5s22">Gailestis</textPath>
             </text>
         </g>
         <g data-id="119">
             <path class="fil2" d="M1272 984l1 -1c107,-82 225,-151 352,-203l55 132c-116,48 -223,111 -320,185l-1 1 -87 -114z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s23" side="left">Nuolaidžiavimas</textPath>
+                <textPath startOffset="0%" href="#l5s23">Nuolaidžiavimas</textPath>
             </text>
         </g>
         <g data-id="120">
             <path class="fil2" d="M1625 780l1 -1c123,-51 255,-86 393,-105l19 143 0 0c-126,16 -245,49 -357,95l-1 0 -55 -132z"/>
             <text class="hasPath text5" text-anchor="start">
-                <textPath startOffset="0%" href="#l5s24" side="left">Liūdnumas</textPath>
+                <textPath startOffset="0%" href="#l5s24">Liūdnumas</textPath>
             </text>
         </g>
         <g data-id="121">
             <path class="fil2" d="M2001 543c1,-1 1,-1 2,-1 150,-19 298,-19 441,0l-17 132c-132,-17 -269,-18 -407,0 0,0 -1,0 -1,0l-18 -131z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s1" side="left">Nepasitikėjimas</textPath>
+                <textPath startOffset="0%" href="#l6s1">Nepasitikėjimas</textPath>
             </text>
         </g>
         <g data-id="122">
             <path class="fil2" d="M2444 542l0 0c149,20 292,59 427,115l-51 123c-124,-52 -256,-88 -393,-106l0 0 17 -132z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s2" side="left">Pasimetimas</textPath>
+                <textPath startOffset="0%" href="#l6s2">Pasimetimas</textPath>
             </text>
         </g>
         <g data-id="123">
             <path class="fil2" d="M2871 657l0 0c137,57 266,132 383,221l-81 106c-108,-83 -226,-152 -352,-204l-1 0 51 -123z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s3" side="left">Savitumas</textPath>
+                <textPath startOffset="0%" href="#l6s3">Savitumas</textPath>
             </text>
         </g>
         <g data-id="124">
             <path class="fil2" d="M3254 878l0 0c117,90 223,195 313,313l-105 81c-84,-109 -181,-205 -289,-288l0 0 81 -106z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s4" side="left">Priežiūra</textPath>
+                <textPath startOffset="0%" href="#l6s4">Priežiūra</textPath>
             </text>
         </g>
         <g data-id="125">
             <path class="fil2" d="M3567 1191l0 0c90,116 164,245 222,383l-123 51c-53,-128 -122,-246 -204,-353l0 0 105 -81z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s5" side="left">Patiklumas</textPath>
+                <textPath startOffset="0%" href="#l6s5">Patiklumas</textPath>
             </text>
         </g>
         <g data-id="126">
             <path class="fil2" d="M3789 1574l0 0c55,134 94,277 114,427l0 0 -132 18 0 0c-18,-139 -54,-271 -105,-394l0 0 123 -51z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s6" side="left">Lengvabūdiškumas</textPath>
+                <textPath startOffset="0%" href="#l6s6">Lengvabūdiškumas</textPath>
             </text>
         </g>
         <g data-id="127">
             <path class="fil2" d="M3903 2001c20,151 19,299 0,443l0 0 -132 -17 0 -1c18,-132 18,-269 0,-407l132 -18z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s7" side="left">Ožiavimasis</textPath>
+                <textPath startOffset="0%" href="#l6s7">Ožiavimasis</textPath>
             </text>
         </g>
         <g data-id="128">
             <path class="fil2" d="M3903 2444c-19,148 -58,292 -115,427l0 0 -122 -51 0 0c51,-124 87,-257 105,-393l132 17z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s8" side="right">Įsitempimas</textPath>
+                <textPath startOffset="0%" href="#l6s8">Įsitempimas</textPath>
             </text>
         </g>
         <g data-id="129">
             <path class="fil2" d="M3788 2871c-57,137 -131,266 -221,383l0 0 -105 -81 0 0c82,-108 151,-226 204,-353l122 51z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s9" side="right">Garbinimas</textPath>
+                <textPath startOffset="0%" href="#l6s9">Garbinimas</textPath>
             </text>
         </g>
         <g data-id="130">
             <path class="fil2" d="M3567 3254c-90,117 -195,223 -313,313l0 0 -81 -105 1 0c108,-84 205,-181 288,-289l105 81z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s10" side="right">Meilikavimas</textPath>
+                <textPath startOffset="0%" href="#l6s10">Meilikavimas</textPath>
             </text>
         </g>
         <g data-id="131">
             <path class="fil2" d="M3254 3567c-116,89 -244,164 -383,221l0 1 -51 -123 1 0c127,-53 245,-122 352,-204l81 105z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s11" side="right">Ilgėjimasis</textPath>
+                <textPath startOffset="0%" href="#l6s11">Ilgėjimasis</textPath>
             </text>
         </g>
         <g data-id="132">
             <path class="fil2" d="M2871 3789c-134,55 -277,94 -427,114l0 0 -17 -132 0 0c138,-18 270,-54 393,-105l51 123z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s12" side="right">Euforija</textPath>
+                <textPath startOffset="0%" href="#l6s12">Euforija</textPath>
             </text>
         </g>
         <g data-id="133">
             <path class="fil2" d="M2444 3903c-150,20 -298,19 -441,0l-2 0 18 -132 1 0c132,18 268,18 407,0l17 132z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s13" side="right">Naivumas</textPath>
+                <textPath startOffset="0%" href="#l6s13">Naivumas</textPath>
             </text>
         </g>
         <g data-id="134">
             <path class="fil2" d="M2001 3903c-148,-19 -291,-58 -426,-114l-1 -1 51 -122 1 0c124,52 256,87 393,105l-18 132z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s14" side="right">Vylimasis</textPath>
+                <textPath startOffset="0%" href="#l6s14">Vylimasis</textPath>
             </text>
         </g>
         <g data-id="135">
             <path class="fil2" d="M1574 3788c-137,-56 -265,-131 -382,-220l-1 -1 81 -105 1 0c107,83 226,151 352,204l-51 122z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s15" side="right">Pripratimas</textPath>
+                <textPath startOffset="0%" href="#l6s15">Pripratimas</textPath>
             </text>
         </g>
         <g data-id="136">
             <path class="fil2" d="M1191 3567c-117,-90 -222,-195 -313,-312l0 -1 106 -81 0 1c83,108 180,205 288,288l-81 105z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s16" side="right">Šnipinėjimas</textPath>
+                <textPath startOffset="0%" href="#l6s16">Šnipinėjimas</textPath>
             </text>
         </g>
         <g data-id="137">
             <path class="fil2" d="M878 3254c-89,-116 -164,-244 -221,-382l0 -1 123 -51 0 1c52,127 121,246 204,352l-106 81z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s17" side="right">Sergėjimas</textPath>
+                <textPath startOffset="0%" href="#l6s17">Sergėjimas</textPath>
             </text>
         </g>
         <g data-id="138">
             <path class="fil2" d="M657 2871c-56,-134 -95,-277 -114,-427l131 -17c19,138 55,270 106,393l-123 51z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s18" side="right">Išsisukinėjimas</textPath>
+                <textPath startOffset="0%" href="#l6s18">Išsisukinėjimas</textPath>
             </text>
         </g>
         <g data-id="139">
             <path class="fil2" d="M543 2444l-1 -1c-19,-150 -19,-298 0,-442l132 18c-17,132 -18,268 0,406l0 2 -131 17z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s19" side="right">Nusižeminimas</textPath>
+                <textPath startOffset="0%" href="#l6s19">Nusižeminimas</textPath>
             </text>
         </g>
         <g data-id="140">
             <path class="fil2" d="M542 2001l0 0c20,-148 59,-292 115,-427l123 51c-52,125 -88,257 -106,393l0 1 -132 -18z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s20" side="left">Išpaikimas</textPath>
+                <textPath startOffset="0%" href="#l6s20">Išpaikimas</textPath>
             </text>
         </g>
         <g data-id="141">
             <path class="fil2" d="M657 1574l0 0c57,-137 132,-266 221,-383l106 81c-83,108 -152,226 -204,352l0 1 -123 -51z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s21" side="left">Pasipūtimas</textPath>
+                <textPath startOffset="0%" href="#l6s21">Pasipūtimas</textPath>
             </text>
         </g>
         <g data-id="142">
             <path class="fil2" d="M878 1191l1 -1c90,-116 194,-222 312,-312l81 106c-108,83 -205,180 -288,287l0 1 -106 -81z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s22" side="left">Kaltė</textPath>
+                <textPath startOffset="0%" href="#l6s22">Kaltė</textPath>
             </text>
         </g>
         <g data-id="143">
             <path class="fil2" d="M1191 878l1 -1c116,-88 244,-163 382,-220l51 123c-127,52 -245,121 -352,203l-1 1 -81 -106z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s23" side="left">Nusivylimas</textPath>
+                <textPath startOffset="0%" href="#l6s23">Nusivylimas</textPath>
             </text>
         </g>
         <g data-id="144">
             <path class="fil2" d="M1574 657l1 -1c134,-55 276,-94 426,-113l18 131c-138,19 -270,54 -393,105l-1 1 -51 -123z"/>
             <text class="hasPath text6" text-anchor="start">
-                <textPath startOffset="0%" href="#l6s24" side="left">Melancholija</textPath>
+                <textPath startOffset="0%" href="#l6s24">Melancholija</textPath>
             </text>
         </g>
         <g data-id="145">
             <path class="fil3" d="M1985 415c0,0 1,0 1,0 161,-21 321,-20 475,0l-17 127c-143,-19 -291,-19 -441,0 -1,0 -1,0 -2,1l-16 -128z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s1" side="left">Pesimizmas</textPath>
+                <textPath startOffset="0%" href="#l7s1">Pesimizmas</textPath>
             </text>
         </g>
         <g data-id="146">
             <path class="fil3" d="M2461 415l0 0c160,21 314,63 459,123l-49 119c-135,-56 -278,-95 -427,-115l0 0 17 -127z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s2" side="left">Dogmatizmas</textPath>
+                <textPath startOffset="0%" href="#l7s2">Dogmatizmas</textPath>
             </text>
         </g>
         <g data-id="147">
             <path class="fil3" d="M2920 538l0 1c148,61 286,141 412,238l-78 101c-117,-89 -246,-164 -383,-221l0 0 49 -119z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s3" side="left">Keistumas</textPath>
+                <textPath startOffset="0%" href="#l7s3">Keistumas</textPath>
             </text>
         </g>
         <g data-id="148">
             <path class="fil3" d="M3332 777l0 0c126,96 240,209 337,336l-102 78c-90,-118 -196,-223 -313,-313l0 0 78 -101z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s4" side="left">Draudimas</textPath>
+                <textPath startOffset="0%" href="#l7s4">Draudimas</textPath>
             </text>
         </g>
         <g data-id="149">
             <path class="fil3" d="M3669 1113l0 0c96,125 176,263 238,412l-118 49c-58,-138 -132,-267 -222,-383l0 0 102 -78z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s5" side="left">Naivumas</textPath>
+                <textPath startOffset="0%" href="#l7s5">Naivumas</textPath>
             </text>
         </g>
         <g data-id="150">
             <path class="fil3" d="M3907 1525l0 0c60,144 102,298 123,460l0 0 -127 16 0 0c-20,-150 -59,-293 -114,-427l0 0 118 -49z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s6" side="left">Kvailiojimas</textPath>
+                <textPath startOffset="0%" href="#l7s6">Kvailiojimas</textPath>
             </text>
         </g>
         <g data-id="151">
             <path class="fil3" d="M4030 1985c21,162 21,321 0,476l0 0 -127 -17 0 0c19,-144 20,-292 0,-443l127 -16z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s7" side="left">Cinizmas</textPath>
+                <textPath startOffset="0%" href="#l7s7">Cinizmas</textPath>
             </text>
         </g>
         <g data-id="152">
             <path class="fil3" d="M4030 2461c-21,159 -63,314 -123,459l0 0 -119 -49 0 0c57,-135 96,-279 115,-427l127 17z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s8" side="right">Susivaržymas</textPath>
+                <textPath startOffset="0%" href="#l7s8">Susivaržymas</textPath>
             </text>
         </g>
         <g data-id="153">
             <path class="fil3" d="M3907 2920c-61,148 -142,286 -238,412l0 0 -102 -78 0 0c90,-117 164,-246 221,-383l119 49z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s9" side="right">Fanatizmas</textPath>
+                <textPath startOffset="0%" href="#l7s9">Fanatizmas</textPath>
             </text>
         </g>
         <g data-id="154">
             <path class="fil3" d="M3669 3332c-97,126 -210,239 -336,337l-1 0 -78 -102 0 0c118,-90 223,-196 313,-313l102 78z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s10" side="right">Įsiteikimas</textPath>
+                <textPath startOffset="0%" href="#l7s10">Įsiteikimas</textPath>
             </text>
         </g>
         <g data-id="155">
             <path class="fil3" d="M3332 3669c-124,96 -263,176 -412,238l0 0 -49 -118 0 -1c139,-57 267,-132 383,-221l78 102z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s11" side="right">Kontroliavimas</textPath>
+                <textPath startOffset="0%" href="#l7s11">Kontroliavimas</textPath>
             </text>
         </g>
         <g data-id="156">
             <path class="fil3" d="M2920 3907c-144,60 -298,102 -459,123l0 0 -17 -127 0 0c150,-20 293,-59 427,-114l49 118z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s12" side="right">Šėlsmas</textPath>
+                <textPath startOffset="0%" href="#l7s12">Šėlsmas</textPath>
             </text>
         </g>
         <g data-id="157">
             <path class="fil3" d="M2461 4030c-162,21 -321,20 -475,0l-1 0 16 -127 2 0c143,19 291,20 441,0l17 127z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s13" side="right">Nerimas</textPath>
+                <textPath startOffset="0%" href="#l7s13">Nerimas</textPath>
             </text>
         </g>
         <g data-id="158">
             <path class="fil3" d="M1985 4030c-160,-21 -314,-63 -459,-123l-1 0 49 -119 1 1c135,56 278,95 426,114l-16 127z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s14" side="right">Užsiciklinimas</textPath>
+                <textPath startOffset="0%" href="#l7s14">Užsiciklinimas</textPath>
             </text>
         </g>
         <g data-id="159">
             <path class="fil3" d="M1525 3907c-147,-61 -285,-141 -411,-238l-1 0 78 -102 1 1c117,89 245,164 382,220l-49 119z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s15" side="right">Priklausomumas</textPath>
+                <textPath startOffset="0%" href="#l7s15">Priklausomumas</textPath>
             </text>
         </g>
         <g data-id="160">
             <path class="fil3" d="M1113 3669c-126,-97 -239,-210 -336,-336l-1 -1 102 -78 0 1c91,117 196,222 313,312l-78 102z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s16" side="right">Bambėjimas</textPath>
+                <textPath startOffset="0%" href="#l7s16">Bambėjimas</textPath>
             </text>
         </g>
         <g data-id="161">
             <path class="fil3" d="M776 3332c-96,-124 -176,-262 -238,-411l0 -1 119 -49 0 1c57,138 132,266 221,382l-102 78z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s17" side="right">Įtarumas</textPath>
+                <textPath startOffset="0%" href="#l7s17">Įtarumas</textPath>
             </text>
         </g>
         <g data-id="162">
             <path class="fil3" d="M538 2920c-59,-144 -101,-298 -123,-459l128 -17c19,150 58,293 114,427l-119 49z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s18" side="right">Gudravimas</textPath>
+                <textPath startOffset="0%" href="#l7s18">Gudravimas</textPath>
             </text>
         </g>
         <g data-id="163">
             <path class="fil3" d="M415 2461l0 -2c-21,-161 -20,-320 0,-474l127 16c-19,144 -19,292 0,442l1 1 -128 17z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s19" side="right">Veidmainiavimas</textPath>
+                <textPath startOffset="0%" href="#l7s19">Veidmainiavimas</textPath>
             </text>
         </g>
         <g data-id="164">
             <path class="fil3" d="M415 1985l0 -1c21,-159 63,-314 123,-459l119 49c-56,135 -95,279 -115,427l0 0 -127 -16z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s20" side="left">Išlepimas</textPath>
+                <textPath startOffset="0%" href="#l7s20">Išlepimas</textPath>
             </text>
         </g>
         <g data-id="165">
             <path class="fil3" d="M538 1525l1 -1c61,-147 141,-285 238,-411l101 78c-89,117 -164,246 -221,383l0 0 -119 -49z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s21" side="left">Garbėtroška</textPath>
+                <textPath startOffset="0%" href="#l7s21">Garbėtroška</textPath>
             </text>
         </g>
         <g data-id="166">
             <path class="fil3" d="M777 1113l0 -1c97,-125 210,-238 336,-336l78 102c-118,90 -222,196 -312,312l-1 1 -101 -78z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s22" side="left">Gėda</textPath>
+                <textPath startOffset="0%" href="#l7s22">Gėda</textPath>
             </text>
         </g>
         <g data-id="167">
             <path class="fil3" d="M1113 776l1 0c124,-96 262,-176 411,-238l49 119c-138,57 -266,132 -382,220l-1 1 -78 -102z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s23" side="left">Nuoskauda</textPath>
+                <textPath startOffset="0%" href="#l7s23">Nuoskauda</textPath>
             </text>
         </g>
         <g data-id="168">
             <path class="fil3" d="M1525 538l1 0c144,-59 297,-101 459,-123l16 128c-150,19 -292,58 -426,113l-1 1 -49 -119z"/>
             <text class="hasPath text7" text-anchor="start">
-                <textPath startOffset="0%" href="#l7s24" side="left">Niūrumas</textPath>
+                <textPath startOffset="0%" href="#l7s24">Niūrumas</textPath>
             </text>
         </g>
         <g data-id="169">
             <path class="fil3" d="M1968 286c0,0 1,0 1,0 173,-23 344,-22 509,0l-17 129c-154,-20 -314,-21 -475,0 0,0 -1,0 -1,0l-17 -129z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s1" side="left">Teisimas</textPath>
+                <textPath startOffset="0%" href="#l8s1">Teisimas</textPath>
             </text>
         </g>
         <g data-id="170">
             <path class="fil3" d="M2478 286l0 0c171,22 336,67 492,132l-50 120c-145,-60 -299,-102 -459,-123l0 0 17 -129z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s2" side="left">Išgąstis</textPath>
+                <textPath startOffset="0%" href="#l8s2">Išgąstis</textPath>
             </text>
         </g>
         <g data-id="171">
             <path class="fil3" d="M2970 418l0 0c158,66 307,152 442,255l-80 104c-126,-97 -264,-177 -412,-238l0 -1 50 -120z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s3" side="left">Gluminimas</textPath>
+                <textPath startOffset="0%" href="#l8s3">Gluminimas</textPath>
             </text>
         </g>
         <g data-id="172">
             <path class="fil3" d="M3412 673l0 0c135,104 256,225 360,361l-103 79c-97,-127 -211,-240 -337,-336l0 0 80 -104z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s4" side="left">Gąsdinimas</textPath>
+                <textPath startOffset="0%" href="#l8s4">Gąsdinimas</textPath>
             </text>
         </g>
         <g data-id="173">
             <path class="fil3" d="M3772 1034l0 0c103,133 190,281 256,441l-121 50c-62,-149 -142,-287 -238,-412l0 0 103 -79z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s5" side="left">Aklumas</textPath>
+                <textPath startOffset="0%" href="#l8s5">Aklumas</textPath>
             </text>
         </g>
         <g data-id="174">
             <path class="fil3" d="M4028 1475l0 0c63,154 108,319 131,493l0 0 -129 17 0 0c-21,-162 -63,-316 -123,-460l0 0 121 -50z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s6" side="left">Plepumas</textPath>
+                <textPath startOffset="0%" href="#l8s6">Plepumas</textPath>
             </text>
         </g>
         <g data-id="175">
             <path class="fil3" d="M4159 1968c23,173 22,344 1,510l0 0 -130 -17 0 0c21,-155 21,-314 0,-476l129 -17z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s7" side="left">Beširdiškumas</textPath>
+                <textPath startOffset="0%" href="#l8s7">Beširdiškumas</textPath>
             </text>
         </g>
         <g data-id="176">
             <path class="fil3" d="M4160 2478c-23,171 -68,336 -133,492l0 0 -120 -50 0 0c60,-145 102,-300 123,-459l130 17z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s8" side="right">Susikaustymas</textPath>
+                <textPath startOffset="0%" href="#l8s8">Susikaustymas</textPath>
             </text>
         </g>
         <g data-id="177">
             <path class="fil3" d="M4027 2970c-65,158 -151,307 -255,442l0 0 -103 -80 0 0c96,-126 177,-264 238,-412l120 50z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s9" side="right">Aukojimas</textPath>
+                <textPath startOffset="0%" href="#l8s9">Aukojimas</textPath>
             </text>
         </g>
         <g data-id="178">
             <path class="fil3" d="M3772 3412c-103,134 -224,256 -360,360l0 0 -80 -103 1 0c126,-98 239,-211 336,-337l103 80z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s10" side="right">Paikinimas</textPath>
+                <textPath startOffset="0%" href="#l8s10">Paikinimas</textPath>
             </text>
         </g>
         <g data-id="179">
             <path class="fil3" d="M3412 3772c-134,103 -282,189 -442,255l0 0 -50 -120 0 0c149,-62 288,-142 412,-238l80 103z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s11" side="right">Priekabiavimas</textPath>
+                <textPath startOffset="0%" href="#l8s11">Priekabiavimas</textPath>
             </text>
         </g>
         <g data-id="180">
             <path class="fil3" d="M2970 4027c-154,64 -319,109 -492,132l0 0 -17 -129 0 0c161,-21 315,-63 459,-123l50 120z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s12" side="right">Siautėjimas</textPath>
+                <textPath startOffset="0%" href="#l8s12">Siautėjimas</textPath>
             </text>
         </g>
         <g data-id="181">
             <path class="fil3" d="M1985 4030l1 0c154,20 313,21 475,0l17 129 0 0c-173,23 -344,22 -509,1l-1 -1 17 -129z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s13" side="right">Smulkmeniškumas</textPath>
+                <textPath startOffset="0%" href="#l8s13">Smulkmeniškumas</textPath>
             </text>
         </g>
         <g data-id="182">
             <path class="fil3" d="M1525 3907l1 0c145,60 299,102 459,123l-17 129c-171,-22 -336,-67 -492,-131l-1 -1 50 -120z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s14" side="right">Įkyrumas</textPath>
+                <textPath startOffset="0%" href="#l8s14">Įkyrumas</textPath>
             </text>
         </g>
         <g data-id="183">
             <path class="fil3" d="M1113 3669l1 0c126,97 264,177 411,238l-50 120c-158,-65 -306,-151 -441,-254l0 -1 79 -103z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s15" side="right">Besaikiškumas</textPath>
+                <textPath startOffset="0%" href="#l8s15">Besaikiškumas</textPath>
             </text>
         </g>
         <g data-id="184">
             <path class="fil3" d="M776 3332l1 1c97,126 210,239 336,336l-79 103c-135,-103 -256,-224 -361,-360l0 0 103 -80z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s16" side="right">Verkšlenimas</textPath>
+                <textPath startOffset="0%" href="#l8s16">Verkšlenimas</textPath>
             </text>
         </g>
         <g data-id="185">
             <path class="fil3" d="M538 2920l0 1c62,149 142,287 238,411l-103 80c-103,-134 -189,-282 -255,-441l0 -1 120 -50z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s17" side="right">Susierzinimas</textPath>
+                <textPath startOffset="0%" href="#l8s17">Susierzinimas</textPath>
             </text>
         </g>
         <g data-id="186">
             <path class="fil3" d="M415 2461c22,161 64,315 123,459l-120 50c-64,-154 -109,-319 -132,-492l129 -17z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s18" side="right">Sukčiavimas</textPath>
+                <textPath startOffset="0%" href="#l8s18">Sukčiavimas</textPath>
             </text>
         </g>
         <g data-id="187">
             <path class="fil3" d="M415 1985c-20,154 -21,313 0,474l0 2 -129 17 0 -2c-23,-173 -22,-343 0,-508l129 17z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s19" side="right">Pasišlykštėjimas</textPath>
+                <textPath startOffset="0%" href="#l8s19">Pasišlykštėjimas</textPath>
             </text>
         </g>
         <g data-id="188">
             <path class="fil3" d="M538 1525c-60,145 -102,300 -123,459l0 1 -129 -17 0 -1c22,-171 67,-336 132,-492l120 50z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s20" side="left">Pakrikimas</textPath>
+                <textPath startOffset="0%" href="#l8s20">Pakrikimas</textPath>
             </text>
         </g>
         <g data-id="189">
             <path class="fil3" d="M777 1113c-97,126 -177,264 -238,411l-1 1 -120 -50 0 0c66,-158 152,-307 255,-441l104 79z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s21" side="left">Atsiribojimas</textPath>
+                <textPath startOffset="0%" href="#l8s21">Atsiribojimas</textPath>
             </text>
         </g>
         <g data-id="190">
             <path class="fil3" d="M1113 776c-126,98 -239,211 -336,336l0 1 -104 -79 1 -1c103,-135 224,-256 360,-360l79 103z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s22" side="left">Graužatis</textPath>
+                <textPath startOffset="0%" href="#l8s22">Graužatis</textPath>
             </text>
         </g>
         <g data-id="191">
             <path class="fil3" d="M1525 538c-149,62 -287,142 -411,238l-1 0 -79 -103 0 -1c134,-102 282,-188 441,-254l50 120z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s23" side="left">Įsižeidimas</textPath>
+                <textPath startOffset="0%" href="#l8s23">Įsižeidimas</textPath>
             </text>
         </g>
         <g data-id="192">
             <path class="fil3" d="M1968 286l0 0 17 129c-162,22 -315,64 -459,123l-1 0 -50 -120 1 -1c154,-63 319,-108 492,-131z"/>
             <text class="hasPath text8" text-anchor="start">
-                <textPath startOffset="0%" href="#l8s24" side="left">Graudumas</textPath>
+                <textPath startOffset="0%" href="#l8s24">Graudumas</textPath>
             </text>
         </g>
         <g data-id="193">
             <path class="fil3" d="M1950 155c1,0 1,0 2,0 184,-25 367,-24 543,-1l-17 132c-165,-22 -336,-23 -509,0 0,0 -1,0 -1,0l-18 -131z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s1" side="left">Kaltinimas</textPath>
+                <textPath startOffset="0%" href="#l9s1">Kaltinimas</textPath>
             </text>
         </g>
         <g data-id="194">
             <path class="fil3" d="M2495 154l0 0c183,24 359,72 526,142l-51 122c-156,-65 -321,-110 -492,-132l0 0 17 -132z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s2" side="left">Panika</textPath>
+                <textPath startOffset="0%" href="#l9s2">Panika</textPath>
             </text>
         </g>
         <g data-id="195">
             <path class="fil3" d="M3021 296l0 0c169,70 327,162 471,272l-80 105c-135,-103 -284,-189 -442,-255l0 0 51 -122z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s3" side="left">Šokiravimas</textPath>
+                <textPath startOffset="0%" href="#l9s3">Šokiravimas</textPath>
             </text>
         </g>
         <g data-id="196">
             <path class="fil3" d="M3492 568l0 0c144,111 274,240 386,385l-106 81c-104,-136 -225,-257 -360,-361l0 0 80 -105z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s4" side="left">Baudimas</textPath>
+                <textPath startOffset="0%" href="#l9s4">Baudimas</textPath>
             </text>
         </g>
         <g data-id="197">
             <path class="fil3" d="M3878 953l0 0c109,143 202,301 272,471l-122 51c-66,-160 -153,-308 -256,-441l0 0 106 -81z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s5" side="left">Košmaras</textPath>
+                <textPath startOffset="0%" href="#l9s5">Košmaras</textPath>
             </text>
         </g>
         <g data-id="198">
             <path class="fil3" d="M4150 1424l0 0c68,165 116,341 141,526l0 0 -132 18 0 0c-23,-174 -68,-339 -131,-493l0 0 122 -51z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s6" side="left">Apkalbinėjimas</textPath>
+                <textPath startOffset="0%" href="#l9s6">Apkalbinėjimas</textPath>
             </text>
         </g>
         <g data-id="199">
             <path class="fil3" d="M4291 1950c24,186 23,368 0,545l0 0 -131 -17 0 0c21,-166 22,-337 -1,-510l132 -18z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s7" side="left">Pavydas</textPath>
+                <textPath startOffset="0%" href="#l9s7">Pavydas</textPath>
             </text>
         </g>
         <g data-id="200">
             <path class="fil3" d="M4291 2495c-24,183 -72,359 -141,526l0 0 -123 -51 0 0c65,-156 110,-321 133,-492l131 17z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s8" side="right">Kompleksuotumas</textPath>
+                <textPath startOffset="0%" href="#l9s8">Kompleksuotumas</textPath>
             </text>
         </g>
         <g data-id="201">
             <path class="fil3" d="M4150 3021c-70,169 -162,327 -273,471l0 0 -105 -80 0 0c104,-135 190,-284 255,-442l123 51z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s9" side="right">Aklumas</textPath>
+                <textPath startOffset="0%" href="#l9s9">Aklumas</textPath>
             </text>
         </g>
         <g data-id="202">
             <path class="fil3" d="M3877 3492c-110,144 -240,274 -384,385l-1 0 -80 -105 0 0c136,-104 257,-226 360,-360l105 80z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s10" side="right">Pataikavimas</textPath>
+                <textPath startOffset="0%" href="#l9s10">Pataikavimas</textPath>
             </text>
         </g>
         <g data-id="203">
             <path class="fil3" d="M3492 3877c-142,110 -301,202 -471,273l0 0 -51 -123 0 0c160,-66 308,-152 442,-255l80 105z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s11" side="right">Skūpumas</textPath>
+                <textPath startOffset="0%" href="#l9s11">Skūpumas</textPath>
             </text>
         </g>
         <g data-id="204">
             <path class="fil3" d="M3021 4150c-165,68 -341,116 -526,141l0 0 -17 -132 0 0c173,-23 338,-68 492,-132l51 123z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s12" side="right">Apsėstumas</textPath>
+                <textPath startOffset="0%" href="#l9s12">Apsėstumas</textPath>
             </text>
         </g>
         <g data-id="205">
             <path class="fil3" d="M2495 4291c-185,24 -367,23 -543,0l-2 0 18 -132 1 1c165,21 336,22 509,-1l0 0 17 132z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s13" side="right">Rūstumas</textPath>
+                <textPath startOffset="0%" href="#l9s13">Rūstumas</textPath>
             </text>
         </g>
         <g data-id="206">
             <path class="fil3" d="M1950 4291c-182,-24 -358,-72 -524,-141l-2 0 51 -123 1 1c156,64 321,109 492,131l-18 132z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s14" side="right">Formalizmas</textPath>
+                <textPath startOffset="0%" href="#l9s14">Formalizmas</textPath>
             </text>
         </g>
         <g data-id="207">
             <path class="fil3" d="M1424 4150c-168,-70 -326,-162 -470,-272l-1 -1 81 -105 0 1c135,103 283,189 441,254l-51 123z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s15" side="right">Piktnaudžiavimas</textPath>
+                <textPath startOffset="0%" href="#l9s15">Piktnaudžiavimas</textPath>
             </text>
         </g>
         <g data-id="208">
             <path class="fil3" d="M953 3877c-144,-110 -273,-239 -385,-384l0 -1 105 -80 0 0c105,136 226,257 361,360l-81 105z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s16" side="right">Apkalbinėjimas</textPath>
+                <textPath startOffset="0%" href="#l9s16">Apkalbinėjimas</textPath>
             </text>
         </g>
         <g data-id="209">
             <path class="fil3" d="M568 3492c-110,-142 -202,-300 -273,-471l0 0 123 -51 0 1c66,159 152,307 255,441l-105 80z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s17" side="right">Piktinimasis</textPath>
+                <textPath startOffset="0%" href="#l9s17">Piktinimasis</textPath>
             </text>
         </g>
         <g data-id="210">
             <path class="fil3" d="M295 3021c-68,-165 -116,-341 -140,-526l131 -17c23,173 68,338 132,492l-123 51z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s18" side="right">Viliojimas</textPath>
+                <textPath startOffset="0%" href="#l9s18">Viliojimas</textPath>
             </text>
         </g>
         <g data-id="211">
             <path class="fil3" d="M155 2495l0 -1c-25,-185 -24,-367 -1,-544l132 18c-22,165 -23,335 0,508l0 2 -131 17z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s19" side="right">Atsiribojimas</textPath>
+                <textPath startOffset="0%" href="#l9s19">Atsiribojimas</textPath>
             </text>
         </g>
         <g data-id="212">
             <path class="fil3" d="M154 1950l0 0c24,-183 72,-359 142,-526l122 51c-65,156 -110,321 -132,492l0 1 -132 -18z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s20" side="left">Silpnavališkumas</textPath>
+                <textPath startOffset="0%" href="#l9s20">Silpnavališkumas</textPath>
             </text>
         </g>
         <g data-id="213">
             <path class="fil3" d="M296 1424l0 0c70,-169 162,-327 272,-471l105 81c-103,134 -189,283 -255,441l0 0 -122 -51z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s21" side="left">Nuobodumas</textPath>
+                <textPath startOffset="0%" href="#l9s21">Nuobodumas</textPath>
             </text>
         </g>
         <g data-id="214">
             <path class="fil3" d="M568 953l1 -1c110,-143 239,-273 384,-384l81 105c-136,104 -257,225 -360,360l-1 1 -105 -81z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s22" side="left">Atgailavimas</textPath>
+                <textPath startOffset="0%" href="#l9s22">Atgailavimas</textPath>
             </text>
         </g>
         <g data-id="215">
             <path class="fil3" d="M953 568l1 -1c142,-109 300,-201 470,-272l51 123c-159,66 -307,152 -441,254l0 1 -81 -105z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s23" side="left">Panieka</textPath>
+                <textPath startOffset="0%" href="#l9s23">Panieka</textPath>
             </text>
         </g>
         <g data-id="216">
             <path class="fil3" d="M1424 295l2 0c164,-68 340,-116 524,-140l18 131 0 0c-173,23 -338,68 -492,131l-1 1 -51 -123z"/>
             <text class="hasPath text9" text-anchor="start">
-                <textPath startOffset="0%" href="#l9s24" side="left">Sielvartas</textPath>
+                <textPath startOffset="0%" href="#l9s24">Sielvartas</textPath>
             </text>
         </g>
         <g data-id="217">
             <path class="fil3" d="M1933 21c0,0 1,0 1,0 197,-26 391,-25 579,0l-18 133c-176,-23 -359,-24 -543,1 -1,0 -1,0 -2,0l-17 -134z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s1" side="left">Vaidijimasis</textPath>
+                <textPath startOffset="0%" href="#l10s1">Vaidijimasis</textPath>
             </text>
         </g>
         <g data-id="218">
             <path class="fil3" d="M2513 21l0 0c194,25 382,77 559,150l-51 125c-167,-70 -343,-118 -526,-142l0 0 18 -133z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s2" side="left">Primityvumas</textPath>
+                <textPath startOffset="0%" href="#l10s2">Primityvumas</textPath>
             </text>
         </g>
         <g data-id="219">
             <path class="fil3" d="M3072 171l0 0c180,75 349,173 502,290l-82 107c-144,-110 -302,-202 -471,-272l0 0 51 -125z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s3" side="left">Atgrasumas</textPath>
+                <textPath startOffset="0%" href="#l10s3">Atgrasumas</textPath>
             </text>
         </g>
         <g data-id="220">
             <path class="fil3" d="M3574 461l0 0c154,118 292,256 410,410l-106 82c-112,-145 -242,-274 -386,-385l0 0 82 -107z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s4" side="left">Bailumas</textPath>
+                <textPath startOffset="0%" href="#l10s4">Bailumas</textPath>
             </text>
         </g>
         <g data-id="221">
             <path class="fil3" d="M3984 871l0 0c117,152 215,320 290,502l-124 51c-70,-170 -163,-328 -272,-471l0 0 106 -82z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s5" side="left">Uždarumas</textPath>
+                <textPath startOffset="0%" href="#l10s5">Uždarumas</textPath>
             </text>
         </g>
         <g data-id="222">
             <path class="fil3" d="M4274 1373l0 0c73,175 124,363 150,560l0 0 -133 17 0 0c-25,-185 -73,-361 -141,-526l0 0 124 -51z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s6" side="left">Melavimas</textPath>
+                <textPath startOffset="0%" href="#l10s6">Melavimas</textPath>
             </text>
         </g>
         <g data-id="223">
             <path class="fil3" d="M4424 1933c26,197 25,391 1,580l0 0 -134 -18 0 0c23,-177 24,-359 0,-545l133 -17z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s7" side="left">Vergavimas</textPath>
+                <textPath startOffset="0%" href="#l10s7">Vergavimas</textPath>
             </text>
         </g>
         <g data-id="224">
             <path class="fil3" d="M4425 2513c-26,194 -77,382 -151,559l0 0 -124 -51 0 0c69,-167 117,-343 141,-526l134 18z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s8" side="right">Nepilnavertiškumas</textPath>
+                <textPath startOffset="0%" href="#l10s8">Nepilnavertiškumas</textPath>
             </text>
         </g>
         <g data-id="225">
             <path class="fil3" d="M4274 3072c-74,180 -172,349 -290,502l0 0 -107 -82 0 0c111,-144 203,-302 273,-471l124 51z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s9" side="right">Abejingumas</textPath>
+                <textPath startOffset="0%" href="#l10s9">Abejingumas</textPath>
             </text>
         </g>
         <g data-id="226">
             <path class="fil3" d="M3984 3574c-118,154 -255,292 -410,410l0 0 -82 -107 1 0c144,-111 274,-241 384,-385l107 82z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s10" side="right">Tvirkinimas</textPath>
+                <textPath startOffset="0%" href="#l10s10">Tvirkinimas</textPath>
             </text>
         </g>
         <g data-id="227">
             <path class="fil3" d="M3574 3984c-152,117 -320,215 -501,290l0 0 -52 -124 0 0c170,-71 329,-163 471,-273l82 107z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s11" side="right">Gobšumas</textPath>
+                <textPath startOffset="0%" href="#l10s11">Gobšumas</textPath>
             </text>
         </g>
         <g data-id="228">
             <path class="fil3" d="M3073 4274c-176,73 -363,124 -560,150l-1 0 -17 -133 0 0c185,-25 361,-73 526,-141l52 124z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s12" side="right">Isterika</textPath>
+                <textPath startOffset="0%" href="#l10s12">Isterika</textPath>
             </text>
         </g>
         <g data-id="229">
             <path class="fil3" d="M2512 4424c-196,26 -390,25 -578,1l-1 -1 17 -133 2 0c176,23 358,24 543,0l17 133z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s13" side="right">Įniršis</textPath>
+                <textPath startOffset="0%" href="#l10s13">Įniršis</textPath>
             </text>
         </g>
         <g data-id="230">
             <path class="fil3" d="M1933 4424c-195,-25 -382,-76 -559,-149l-1 -1 51 -124 2 0c166,69 342,117 524,141l-17 133z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s14" side="right">Agresyvumas</textPath>
+                <textPath startOffset="0%" href="#l10s14">Agresyvumas</textPath>
             </text>
         </g>
         <g data-id="231">
             <path class="fil3" d="M1373 4274c-180,-74 -348,-172 -501,-289l-1 -1 82 -107 1 1c144,110 302,202 470,272l-51 124z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s15" side="right">Nepasotinamumas</textPath>
+                <textPath startOffset="0%" href="#l10s15">Nepasotinamumas</textPath>
             </text>
         </g>
         <g data-id="232">
             <path class="fil3" d="M871 3984c-153,-117 -291,-255 -410,-409l0 0 107 -83 0 1c112,145 241,274 385,384l-82 107z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s16" side="right">Skundimas</textPath>
+                <textPath startOffset="0%" href="#l10s16">Skundimas</textPath>
             </text>
         </g>
         <g data-id="233">
             <path class="fil3" d="M461 3575c-117,-153 -215,-321 -290,-502l0 0 124 -52 0 0c71,171 163,329 273,471l-107 83z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s17" side="right">Pyktis</textPath>
+                <textPath startOffset="0%" href="#l10s17">Pyktis</textPath>
             </text>
         </g>
         <g data-id="234">
             <path class="fil3" d="M171 3073c-73,-176 -124,-363 -150,-561l134 -17c24,185 72,361 140,526l-124 52z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s18" side="right">Apgavystė</textPath>
+                <textPath startOffset="0%" href="#l10s18">Apgavystė</textPath>
             </text>
         </g>
         <g data-id="235">
             <path class="fil3" d="M21 2512l0 -1c-26,-197 -25,-391 0,-578l133 17c-23,177 -24,359 1,544l0 1 -134 17z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s19" side="right">Apatija</textPath>
+                <textPath startOffset="0%" href="#l10s19">Apatija</textPath>
             </text>
         </g>
         <g data-id="236">
             <path class="fil3" d="M21 1933l0 -1c25,-194 76,-382 150,-559l125 51c-70,167 -118,343 -142,526l0 0 -133 -17z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s20" side="left">Pasileidimas</textPath>
+                <textPath startOffset="0%" href="#l10s20">Pasileidimas</textPath>
             </text>
         </g>
         <g data-id="237">
             <path class="fil3" d="M171 1373l0 -1c75,-179 173,-348 290,-501l107 82c-110,144 -202,302 -272,471l0 0 -125 -51z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s21" side="left">Neapykanta</textPath>
+                <textPath startOffset="0%" href="#l10s21">Neapykanta</textPath>
             </text>
         </g>
         <g data-id="238">
             <path class="fil3" d="M461 871l1 -1c117,-153 255,-291 409,-409l82 107c-145,111 -274,241 -384,384l-1 1 -107 -82z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s22" side="left">Padlaižiavimas</textPath>
+                <textPath startOffset="0%" href="#l10s22">Padlaižiavimas</textPath>
             </text>
         </g>
         <g data-id="239">
             <path class="fil3" d="M871 461l1 -1c152,-116 320,-214 501,-289l51 124c-170,71 -328,163 -470,272l-1 1 -82 -107z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s23" side="left">Išdavystė</textPath>
+                <textPath startOffset="0%" href="#l10s23">Išdavystė</textPath>
             </text>
         </g>
         <g data-id="240">
             <path class="fil3" d="M1373 171l1 -1c175,-72 362,-123 559,-149l17 134c-184,24 -360,72 -524,140l-2 0 -51 -124z"/>
             <text class="hasPath text10" text-anchor="start">
-                <textPath startOffset="0%" href="#l10s24" side="left">Išprotėjimas</textPath>
+                <textPath startOffset="0%" href="#l10s24">Išprotėjimas</textPath>
             </text>
         </g>
 
@@ -1483,18 +1483,18 @@
         <path d="M1990 2222 h470" transform="rotate(60,2222,2222) translate(0,-2120)" id="l10s5" stroke="red" stroke-width="5"/>
         <path d="M1990 2222 h470" transform="rotate(75,2222,2222) translate(0,-2120)" id="l10s6" stroke="red" stroke-width="5"/>
         <path d="M1990 2222 h470" transform="rotate(90,2222,2222) translate(0,-2120)" id="l10s7" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(105,2222,2222) translate(0,-2180)" id="l10s8" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(120,2222,2222) translate(0,-2180)" id="l10s9" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(135,2222,2222) translate(0,-2180)" id="l10s10" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(150,2222,2222) translate(0,-2180)" id="l10s11" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(165,2222,2222) translate(0,-2180)" id="l10s12" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(180,2222,2222) translate(0,-2180)" id="l10s13" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(195,2222,2222) translate(0,-2180)" id="l10s14" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(210,2222,2222) translate(0,-2180)" id="l10s15" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(225,2222,2222) translate(0,-2180)" id="l10s16" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(240,2222,2222) translate(0,-2180)" id="l10s17" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(255,2222,2222) translate(0,-2180)" id="l10s18" stroke="red" stroke-width="5"/>
-        <path d="M1990 2222 h470" transform="rotate(270,2222,2222) translate(0,-2180)" id="l10s19" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(285,2222,2222) translate(0,2180)" id="l10s8" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(300,2222,2222) translate(0,2180)" id="l10s9" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(315,2222,2222) translate(0,2180)" id="l10s10" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(330,2222,2222) translate(0,2180)" id="l10s11" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(345,2222,2222) translate(0,2180)" id="l10s12" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(360,2222,2222) translate(0,2180)" id="l10s13" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(375,2222,2222) translate(0,2180)" id="l10s14" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(390,2222,2222) translate(0,2180)" id="l10s15" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(405,2222,2222) translate(0,2180)" id="l10s16" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(420,2222,2222) translate(0,2180)" id="l10s17" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(435,2222,2222) translate(0,2180)" id="l10s18" stroke="red" stroke-width="5"/>
+        <path d="M1990 2222 h470" transform="rotate(450,2222,2222) translate(0,2180)" id="l10s19" stroke="red" stroke-width="5"/>
         <path d="M1990 2222 h470" transform="rotate(285,2222,2222) translate(0,-2120)" id="l10s20" stroke="red" stroke-width="5"/>
         <path d="M1990 2222 h470" transform="rotate(300,2222,2222) translate(0,-2120)" id="l10s21" stroke="red" stroke-width="5"/>
         <path d="M1990 2222 h470" transform="rotate(315,2222,2222) translate(0,-2120)" id="l10s22" stroke="red" stroke-width="5"/>
@@ -1507,18 +1507,18 @@
         <path d="M2000 2222 h440" transform="rotate(60,2222,2222) translate(0,-1980)" id="l9s5" stroke="blue" stroke-width="5"/>
         <path d="M2000 2222 h440" transform="rotate(75,2222,2222) translate(0,-1980)" id="l9s6" stroke="blue" stroke-width="5"/>
         <path d="M2000 2222 h440" transform="rotate(90,2222,2222) translate(0,-1980)" id="l9s7" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(105,2222,2222) translate(0,-2040)" id="l9s8" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(120,2222,2222) translate(0,-2040)" id="l9s9" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(135,2222,2222) translate(0,-2040)" id="l9s10" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(150,2222,2222) translate(0,-2040)" id="l9s11" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(165,2222,2222) translate(0,-2040)" id="l9s12" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(180,2222,2222) translate(0,-2040)" id="l9s13" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(195,2222,2222) translate(0,-2040)" id="l9s14" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(210,2222,2222) translate(0,-2040)" id="l9s15" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(225,2222,2222) translate(0,-2040)" id="l9s16" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(240,2222,2222) translate(0,-2040)" id="l9s17" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(255,2222,2222) translate(0,-2040)" id="l9s18" stroke="blue" stroke-width="5"/>
-        <path d="M2000 2222 h440" transform="rotate(270,2222,2222) translate(0,-2040)" id="l9s19" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(285,2222,2222) translate(0,2040)" id="l9s8" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(300,2222,2222) translate(0,2040)" id="l9s9" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(315,2222,2222) translate(0,2040)" id="l9s10" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(330,2222,2222) translate(0,2040)" id="l9s11" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(345,2222,2222) translate(0,2040)" id="l9s12" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(360,2222,2222) translate(0,2040)" id="l9s13" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(375,2222,2222) translate(0,2040)" id="l9s14" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(390,2222,2222) translate(0,2040)" id="l9s15" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(405,2222,2222) translate(0,2040)" id="l9s16" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(420,2222,2222) translate(0,2040)" id="l9s17" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(435,2222,2222) translate(0,2040)" id="l9s18" stroke="blue" stroke-width="5"/>
+        <path d="M2000 2222 h440" transform="rotate(450,2222,2222) translate(0,2040)" id="l9s19" stroke="blue" stroke-width="5"/>
         <path d="M2000 2222 h440" transform="rotate(285,2222,2222) translate(0,-1980)" id="l9s20" stroke="blue" stroke-width="5"/>
         <path d="M2000 2222 h440" transform="rotate(300,2222,2222) translate(0,-1980)" id="l9s21" stroke="blue" stroke-width="5"/>
         <path d="M2000 2222 h440" transform="rotate(315,2222,2222) translate(0,-1980)" id="l9s22" stroke="blue" stroke-width="5"/>
@@ -1531,18 +1531,18 @@
         <path d="M2020 2222 h410" transform="rotate(60,2222,2222) translate(0,-1850)" id="l8s5" stroke="green" stroke-width="5"/>
         <path d="M2020 2222 h410" transform="rotate(75,2222,2222) translate(0,-1850)" id="l8s6" stroke="green" stroke-width="5"/>
         <path d="M2020 2222 h410" transform="rotate(90,2222,2222) translate(0,-1850)" id="l8s7" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(105,2222,2222) translate(0,-1910)" id="l8s8" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(120,2222,2222) translate(0,-1910)" id="l8s9" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(135,2222,2222) translate(0,-1910)" id="l8s10" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(150,2222,2222) translate(0,-1910)" id="l8s11" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(165,2222,2222) translate(0,-1910)" id="l8s12" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(180,2222,2222) translate(0,-1910)" id="l8s13" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(195,2222,2222) translate(0,-1910)" id="l8s14" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(210,2222,2222) translate(0,-1910)" id="l8s15" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(225,2222,2222) translate(0,-1910)" id="l8s16" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(240,2222,2222) translate(0,-1910)" id="l8s17" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(255,2222,2222) translate(0,-1910)" id="l8s18" stroke="green" stroke-width="5"/>
-        <path d="M2020 2222 h410" transform="rotate(270,2222,2222) translate(0,-1910)" id="l8s19" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(285,2222,2222) translate(0,1910)" id="l8s8" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(300,2222,2222) translate(0,1910)" id="l8s9" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(315,2222,2222) translate(0,1910)" id="l8s10" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(330,2222,2222) translate(0,1910)" id="l8s11" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(345,2222,2222) translate(0,1910)" id="l8s12" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(360,2222,2222) translate(0,1910)" id="l8s13" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(375,2222,2222) translate(0,1910)" id="l8s14" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(390,2222,2222) translate(0,1910)" id="l8s15" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(405,2222,2222) translate(0,1910)" id="l8s16" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(420,2222,2222) translate(0,1910)" id="l8s17" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(435,2222,2222) translate(0,1910)" id="l8s18" stroke="green" stroke-width="5"/>
+        <path d="M2020 2222 h410" transform="rotate(450,2222,2222) translate(0,1910)" id="l8s19" stroke="green" stroke-width="5"/>
         <path d="M2020 2222 h410" transform="rotate(285,2222,2222) translate(0,-1850)" id="l8s20" stroke="green" stroke-width="5"/>
         <path d="M2020 2222 h410" transform="rotate(300,2222,2222) translate(0,-1850)" id="l8s21" stroke="green" stroke-width="5"/>
         <path d="M2020 2222 h410" transform="rotate(315,2222,2222) translate(0,-1850)" id="l8s22" stroke="green" stroke-width="5"/>
@@ -1555,18 +1555,18 @@
         <path d="M2040 2222 h380" transform="rotate(60,2222,2222) translate(0,-1730)" id="l7s5" stroke="red" stroke-width="5"/>
         <path d="M2040 2222 h380" transform="rotate(75,2222,2222) translate(0,-1730)" id="l7s6" stroke="red" stroke-width="5"/>
         <path d="M2040 2222 h380" transform="rotate(90,2222,2222) translate(0,-1730)" id="l7s7" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(105,2222,2222) translate(0,-1790)" id="l7s8" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(120,2222,2222) translate(0,-1790)" id="l7s9" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(135,2222,2222) translate(0,-1790)" id="l7s10" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(150,2222,2222) translate(0,-1790)" id="l7s11" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(165,2222,2222) translate(0,-1790)" id="l7s12" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(180,2222,2222) translate(0,-1790)" id="l7s13" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(195,2222,2222) translate(0,-1790)" id="l7s14" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(210,2222,2222) translate(0,-1790)" id="l7s15" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(225,2222,2222) translate(0,-1790)" id="l7s16" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(240,2222,2222) translate(0,-1790)" id="l7s17" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(255,2222,2222) translate(0,-1790)" id="l7s18" stroke="red" stroke-width="5"/>
-        <path d="M2040 2222 h380" transform="rotate(270,2222,2222) translate(0,-1790)" id="l7s19" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(285,2222,2222) translate(0,1790)" id="l7s8" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(300,2222,2222) translate(0,1790)" id="l7s9" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(315,2222,2222) translate(0,1790)" id="l7s10" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(330,2222,2222) translate(0,1790)" id="l7s11" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(345,2222,2222) translate(0,1790)" id="l7s12" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(360,2222,2222) translate(0,1790)" id="l7s13" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(375,2222,2222) translate(0,1790)" id="l7s14" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(390,2222,2222) translate(0,1790)" id="l7s15" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(405,2222,2222) translate(0,1790)" id="l7s16" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(420,2222,2222) translate(0,1790)" id="l7s17" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(435,2222,2222) translate(0,1790)" id="l7s18" stroke="red" stroke-width="5"/>
+        <path d="M2040 2222 h380" transform="rotate(450,2222,2222) translate(0,1790)" id="l7s19" stroke="red" stroke-width="5"/>
         <path d="M2040 2222 h380" transform="rotate(285,2222,2222) translate(0,-1730)" id="l7s20" stroke="red" stroke-width="5"/>
         <path d="M2040 2222 h380" transform="rotate(300,2222,2222) translate(0,-1730)" id="l7s21" stroke="red" stroke-width="5"/>
         <path d="M2040 2222 h380" transform="rotate(315,2222,2222) translate(0,-1730)" id="l7s22" stroke="red" stroke-width="5"/>
@@ -1579,18 +1579,18 @@
         <path d="M2050 2222 h360" transform="rotate(60,2222,2222) translate(0,-1590)" id="l6s5" stroke="blue" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(75,2222,2222) translate(0,-1590)" id="l6s6" stroke="blue" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(90,2222,2222) translate(0,-1590)" id="l6s7" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(105,2222,2222) translate(0,-1650)" id="l6s8" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(120,2222,2222) translate(0,-1650)" id="l6s9" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(135,2222,2222) translate(0,-1650)" id="l6s10" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(150,2222,2222) translate(0,-1650)" id="l6s11" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(165,2222,2222) translate(0,-1650)" id="l6s12" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(180,2222,2222) translate(0,-1650)" id="l6s13" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(195,2222,2222) translate(0,-1650)" id="l6s14" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(210,2222,2222) translate(0,-1650)" id="l6s15" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(225,2222,2222) translate(0,-1650)" id="l6s16" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(240,2222,2222) translate(0,-1650)" id="l6s17" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(255,2222,2222) translate(0,-1650)" id="l6s18" stroke="blue" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(270,2222,2222) translate(0,-1650)" id="l6s19" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(285,2222,2222) translate(0,1650)" id="l6s8" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(300,2222,2222) translate(0,1650)" id="l6s9" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(315,2222,2222) translate(0,1650)" id="l6s10" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(330,2222,2222) translate(0,1650)" id="l6s11" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(345,2222,2222) translate(0,1650)" id="l6s12" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(360,2222,2222) translate(0,1650)" id="l6s13" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(375,2222,2222) translate(0,1650)" id="l6s14" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(390,2222,2222) translate(0,1650)" id="l6s15" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(405,2222,2222) translate(0,1650)" id="l6s16" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(420,2222,2222) translate(0,1650)" id="l6s17" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(435,2222,2222) translate(0,1650)" id="l6s18" stroke="blue" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(450,2222,2222) translate(0,1650)" id="l6s19" stroke="blue" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(285,2222,2222) translate(0,-1590)" id="l6s20" stroke="blue" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(300,2222,2222) translate(0,-1590)" id="l6s21" stroke="blue" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(315,2222,2222) translate(0,-1590)" id="l6s22" stroke="blue" stroke-width="5"/>
@@ -1603,47 +1603,47 @@
         <path d="M2050 2222 h360" transform="rotate(60,2222,2222) translate(0,-1460)" id="l5s5" stroke="green" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(75,2222,2222) translate(0,-1460)" id="l5s6" stroke="green" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(90,2222,2222) translate(0,-1460)" id="l5s7" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(105,2222,2222) translate(0,-1520)" id="l5s8" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(120,2222,2222) translate(0,-1520)" id="l5s9" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(135,2222,2222) translate(0,-1520)" id="l5s10" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(150,2222,2222) translate(0,-1520)" id="l5s11" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(165,2222,2222) translate(0,-1520)" id="l5s12" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(180,2222,2222) translate(0,-1520)" id="l5s13" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(195,2222,2222) translate(0,-1520)" id="l5s14" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(210,2222,2222) translate(0,-1520)" id="l5s15" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(225,2222,2222) translate(0,-1520)" id="l5s16" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(240,2222,2222) translate(0,-1520)" id="l5s17" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(255,2222,2222) translate(0,-1520)" id="l5s18" stroke="green" stroke-width="5"/>
-        <path d="M2050 2222 h360" transform="rotate(270,2222,2222) translate(0,-1520)" id="l5s19" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(285,2222,2222) translate(0,1520)" id="l5s8" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(300,2222,2222) translate(0,1520)" id="l5s9" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(315,2222,2222) translate(0,1520)" id="l5s10" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(330,2222,2222) translate(0,1520)" id="l5s11" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(345,2222,2222) translate(0,1520)" id="l5s12" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(360,2222,2222) translate(0,1520)" id="l5s13" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(375,2222,2222) translate(0,1520)" id="l5s14" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(390,2222,2222) translate(0,1520)" id="l5s15" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(405,2222,2222) translate(0,1520)" id="l5s16" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(420,2222,2222) translate(0,1520)" id="l5s17" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(435,2222,2222) translate(0,1520)" id="l5s18" stroke="green" stroke-width="5"/>
+        <path d="M2050 2222 h360" transform="rotate(450,2222,2222) translate(0,1520)" id="l5s19" stroke="green" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(285,2222,2222) translate(0,-1460)" id="l5s20" stroke="green" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(300,2222,2222) translate(0,-1460)" id="l5s21" stroke="green" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(315,2222,2222) translate(0,-1460)" id="l5s22" stroke="green" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(330,2222,2222) translate(0,-1460)" id="l5s23" stroke="green" stroke-width="5"/>
         <path d="M2050 2222 h360" transform="rotate(345,2222,2222) translate(0,-1460)" id="l5s24" stroke="green" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(0,2222,2222) translate(0,-1300)" id="l4s1" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(15,2222,2222) translate(0,-1300)" id="l4s2" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(30,2222,2222) translate(0,-1300)" id="l4s3" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(45,2222,2222) translate(0,-1300)" id="l4s4" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(60,2222,2222) translate(0,-1300)" id="l4s5" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(75,2222,2222) translate(0,-1300)" id="l4s6" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(90,2222,2222) translate(0,-1300)" id="l4s7" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(105,2222,2222) translate(0,-1360)" id="l4s8" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(120,2222,2222) translate(0,-1360)" id="l4s9" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(135,2222,2222) translate(0,-1360)" id="l4s10" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(150,2222,2222) translate(0,-1360)" id="l4s11" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(165,2222,2222) translate(0,-1360)" id="l4s12" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(180,2222,2222) translate(0,-1360)" id="l4s13" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(195,2222,2222) translate(0,-1360)" id="l4s14" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(210,2222,2222) translate(0,-1360)" id="l4s15" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(225,2222,2222) translate(0,-1360)" id="l4s16" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(240,2222,2222) translate(0,-1360)" id="l4s17" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(255,2222,2222) translate(0,-1360)" id="l4s18" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(270,2222,2222) translate(0,-1360)" id="l4s19" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(285,2222,2222) translate(0,-1300)" id="l4s20" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(300,2222,2222) translate(0,-1300)" id="l4s21" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(315,2222,2222) translate(0,-1300)" id="l4s22" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(330,2222,2222) translate(0,-1300)" id="l4s23" stroke="red" stroke-width="5"/>
-        <path d="M2070 2222 h300 M2080 2292 h280" transform="rotate(345,2222,2222) translate(0,-1300)" id="l4s24" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(0,2222,2222) translate(0,-1300)" id="l4s1" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(15,2222,2222) translate(0,-1300)" id="l4s2" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(30,2222,2222) translate(0,-1300)" id="l4s3" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(45,2222,2222) translate(0,-1300)" id="l4s4" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(60,2222,2222) translate(0,-1300)" id="l4s5" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(75,2222,2222) translate(0,-1300)" id="l4s6" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(90,2222,2222) translate(0,-1300)" id="l4s7" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(285,2222,2222) translate(0,1300)" id="l4s8" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(300,2222,2222) translate(0,1300)" id="l4s9" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(315,2222,2222) translate(0,1300)" id="l4s10" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(330,2222,2222) translate(0,1300)" id="l4s11" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(345,2222,2222) translate(0,1300)" id="l4s12" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(360,2222,2222) translate(0,1300)" id="l4s13" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(375,2222,2222) translate(0,1300)" id="l4s14" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(390,2222,2222) translate(0,1300)" id="l4s15" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(405,2222,2222) translate(0,1300)" id="l4s16" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(420,2222,2222) translate(0,1300)" id="l4s17" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(435,2222,2222) translate(0,1300)" id="l4s18" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(450,2222,2222) translate(0,1300)" id="l4s19" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(285,2222,2222) translate(0,-1300)" id="l4s20" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(300,2222,2222) translate(0,-1300)" id="l4s21" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(315,2222,2222) translate(0,-1300)" id="l4s22" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(330,2222,2222) translate(0,-1300)" id="l4s23" stroke="red" stroke-width="5"/>
+        <path d="M2070 2222 h260 M2080 2292 h280" transform="rotate(345,2222,2222) translate(0,-1300)" id="l4s24" stroke="red" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(0,2222,2222) translate(0,-1050)" id="l3s1" stroke="blue" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(15,2222,2222) translate(0,-1050)" id="l3s2" stroke="blue" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(30,2222,2222) translate(0,-1050)" id="l3s3" stroke="blue" stroke-width="5"/>
@@ -1651,18 +1651,18 @@
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(60,2222,2222) translate(0,-1050)" id="l3s5" stroke="blue" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(75,2222,2222) translate(0,-1050)" id="l3s6" stroke="blue" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(90,2222,2222) translate(0,-1050)" id="l3s7" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(105,2222,2222) translate(0,-1110)" id="l3s8" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(120,2222,2222) translate(0,-1110)" id="l3s9" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(135,2222,2222) translate(0,-1110)" id="l3s10" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(150,2222,2222) translate(0,-1110)" id="l3s11" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(165,2222,2222) translate(0,-1110)" id="l3s12" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(180,2222,2222) translate(0,-1110)" id="l3s13" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(195,2222,2222) translate(0,-1110)" id="l3s14" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(210,2222,2222) translate(0,-1110)" id="l3s15" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(225,2222,2222) translate(0,-1110)" id="l3s16" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(240,2222,2222) translate(0,-1110)" id="l3s17" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(255,2222,2222) translate(0,-1110)" id="l3s18" stroke="blue" stroke-width="5"/>
-        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(270,2222,2222) translate(0,-1110)" id="l3s19" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(285,2222,2222) translate(0,1050)" id="l3s8" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(300,2222,2222) translate(0,1050)" id="l3s9" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(315,2222,2222) translate(0,1050)" id="l3s10" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(330,2222,2222) translate(0,1050)" id="l3s11" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(345,2222,2222) translate(0,1050)" id="l3s12" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(360,2222,2222) translate(0,1050)" id="l3s13" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(375,2222,2222) translate(0,1050)" id="l3s14" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(390,2222,2222) translate(0,1050)" id="l3s15" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(405,2222,2222) translate(0,1050)" id="l3s16" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(420,2222,2222) translate(0,1050)" id="l3s17" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(435,2222,2222) translate(0,1050)" id="l3s18" stroke="blue" stroke-width="5"/>
+        <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(450,2222,2222) translate(0,1050)" id="l3s19" stroke="blue" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(285,2222,2222) translate(0,-1050)" id="l3s20" stroke="blue" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(300,2222,2222) translate(0,-1050)" id="l3s21" stroke="blue" stroke-width="5"/>
         <path d="M2100 2222 h245 M2110 2292 h225" transform="rotate(315,2222,2222) translate(0,-1050)" id="l3s22" stroke="blue" stroke-width="5"/>
@@ -1675,34 +1675,34 @@
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(60,2222,2222) translate(0,-800)" id="l2s5" stroke="green" stroke-width="5"/>
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(75,2222,2222) translate(0,-800)" id="l2s6" stroke="green" stroke-width="5"/>
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(90,2222,2222) translate(0,-800)" id="l2s7" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(105,2222,2222) translate(0,-860)" id="l2s8" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(120,2222,2222) translate(0,-860)" id="l2s9" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(135,2222,2222) translate(0,-860)" id="l2s10" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(150,2222,2222) translate(0,-860)" id="l2s11" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(165,2222,2222) translate(0,-860)" id="l2s12" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(180,2222,2222) translate(0,-860)" id="l2s13" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(195,2222,2222) translate(0,-860)" id="l2s14" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(210,2222,2222) translate(0,-860)" id="l2s15" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(225,2222,2222) translate(0,-860)" id="l2s16" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(240,2222,2222) translate(0,-860)" id="l2s17" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(255,2222,2222) translate(0,-860)" id="l2s18" stroke="green" stroke-width="5"/>
-        <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(270,2222,2222) translate(0,-860)" id="l2s19" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(285,2222,2222) translate(0,740)" id="l2s8" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(300,2222,2222) translate(0,740)" id="l2s9" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(315,2222,2222) translate(0,740)" id="l2s10" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(330,2222,2222) translate(0,740)" id="l2s11" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(345,2222,2222) translate(0,740)" id="l2s12" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(360,2222,2222) translate(0,740)" id="l2s13" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(375,2222,2222) translate(0,740)" id="l2s14" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(390,2222,2222) translate(0,740)" id="l2s15" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(405,2222,2222) translate(0,740)" id="l2s16" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(420,2222,2222) translate(0,740)" id="l2s17" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(435,2222,2222) translate(0,740)" id="l2s18" stroke="green" stroke-width="5"/>
+        <path d="M2150 2222 h135 M2140 2292 h155 M2140 2352 h165" transform="rotate(450,2222,2222) translate(0,740)" id="l2s19" stroke="green" stroke-width="5"/>
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(285,2222,2222) translate(0,-800)" id="l2s20" stroke="green" stroke-width="5"/>
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(300,2222,2222) translate(0,-800)" id="l2s21" stroke="green" stroke-width="5"/>
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(315,2222,2222) translate(0,-800)" id="l2s22" stroke="green" stroke-width="5"/>
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(330,2222,2222) translate(0,-800)" id="l2s23" stroke="green" stroke-width="5"/>
         <path d="M2130 2222 h175 M2140 2292 h145 M2150 2352 h125" transform="rotate(345,2222,2222) translate(0,-800)" id="l2s24" stroke="green" stroke-width="5"/>
         <path d="M2222 2222 h600" transform="rotate(107.5,2222,2222)" id="l1s14" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(117.5,2222,2222)" id="l1s15" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(132.5,2222,2222)" id="l1s16" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(147.5,2222,2222)" id="l1s17" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(162.5,2222,2222)" id="l1s18" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(177.5,2222,2222)" id="l1s19" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(192.5,2222,2222)" id="l1s20" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(207.5,2222,2222)" id="l1s21" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(222.5,2222,2222)" id="l1s22" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(237.5,2222,2222)" id="l1s23" stroke="red" stroke-width="5"/>
-        <path d="M2222 2222 h600" transform="rotate(252.5,2222,2222)" id="l1s24" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(297.5,2222,2222)" id="l1s15" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(312.5,2222,2222)" id="l1s16" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(327.5,2222,2222)" id="l1s17" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(342.5,2222,2222)" id="l1s18" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(357.5,2222,2222)" id="l1s19" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(372.5,2222,2222)" id="l1s20" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(387.5,2222,2222)" id="l1s21" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(402.5,2222,2222)" id="l1s22" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(417.5,2222,2222)" id="l1s23" stroke="red" stroke-width="5"/>
+        <path d="M1622 2222 h600" transform="rotate(432.5,2222,2222)" id="l1s24" stroke="red" stroke-width="5"/>
         <path d="M2222 2222 h600" transform="rotate(272.5,2222,2222)" id="l1s1" stroke="red" stroke-width="5"/>
         <path d="M2222 2222 h600" transform="rotate(287.5,2222,2222)" id="l1s2" stroke="red" stroke-width="5"/>
         <path d="M2222 2222 h600" transform="rotate(302.5,2222,2222)" id="l1s3" stroke="red" stroke-width="5"/>
