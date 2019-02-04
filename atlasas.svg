@@ -3,18 +3,19 @@
     <defs>
         <style type="text/css">
             <![CDATA[
+    @import url('https://fonts.googleapis.com/css?family=Roboto&subset=latin-ext');
     .fil1 {fill:#2B2A29}
     .fil2 {fill:#E1E1E1}
     .fil3 {fill:#FF9FAA}
     .fil4 {fill:#FFFF80}
     .fil0 {fill:white}
     .fil5 {fill:black;fill-rule:nonzero}
-    .fnt4 {font-weight:normal;font-size:38.1793px;font-family:'Arial'}
-    .fnt0 {font-weight:normal;font-size:45.8159px;font-family:'Arial'}
-    .fnt1 {font-weight:normal;font-size:53.4513px;font-family:'Arial'}
-    .fnt2 {font-weight:normal;font-size:61.0878px;font-family:'Arial'}
-    .fnt3 {font-weight:normal;font-size:68.7243px;font-family:'Arial'}
-    text {font-weight:normal;font-family:'Arial';}
+    .fnt4 {font-weight:normal;font-size:38.1793px;font-family: 'Roboto', sans-serif;}
+    .fnt0 {font-weight:normal;font-size:45.8159px;font-family: 'Roboto', sans-serif;}
+    .fnt1 {font-weight:normal;font-size:53.4513px;font-family: 'Roboto', sans-serif;}
+    .fnt2 {font-weight:normal;font-size:61.0878px;font-family: 'Roboto', sans-serif;}
+    .fnt3 {font-weight:normal;font-size:68.7243px;font-family: 'Roboto', sans-serif;}
+    text {font-weight:normal;font-family: 'Roboto', sans-serif;}
     .text10 {font-size:65px;fill:black;}
     .text9 {font-size:65px;fill:black;}
     .text8 {font-size:65px;fill:black;}
