@@ -61,7 +61,7 @@ a {
       path {
         fill:$neighbour-bg;
       }
-      text {
+      text, text * {
         fill:$neighbour-fg;
       }
     }

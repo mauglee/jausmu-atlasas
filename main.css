@@ -42,7 +42,7 @@ a {
     height: 58em; }
     #svg svg .neighbour path {
       fill: #cce5ff; }
-    #svg svg .neighbour text {
+    #svg svg .neighbour text, #svg svg .neighbour text * {
       fill: #004085; }
     #svg svg .oposite path {
       fill: #28a745; }
