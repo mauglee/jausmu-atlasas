@@ -170,12 +170,14 @@ function loadPost(post_id) {
             success: function (h) {
                 html = $(h).find(part).html();
                 r.html(html);
+                edit.attr('href', '/wp-admin/post.php?post=' + post_id + '&action=edit');
                 loaded[post_id] = html;
             }
         });
     } else {
         html = loaded[post_id];
         r.html(html);
+        edit.attr('href', '/wp-admin/post.php?post=' + post_id + '&action=edit');
     }
 }
 
