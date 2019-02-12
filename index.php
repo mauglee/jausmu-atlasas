@@ -35,10 +35,17 @@
 					<i class="fas fa-search-plus"></i>
 				</button>
 			</div>
-			<a href="/" class="back-to-website btn btn-primary">
-				<i class="fas fa-home"></i>
-			</a>
+			<div class="back-to-website btn-group" role="group">
+				<a href="/" class="btn btn-primary">
+					<i class="fas fa-home"></i>
+				</a>
+				<a href="/" class="help btn btn-primary">
+					<i class="fas fa-question"></i>
+				</a>
+			</div>
+
 			<?php include_once 'atlasas.php' ?>
+
 		</div>
 		<div id="result"></div>
 	</div>

@@ -1,3 +1,6 @@
+// help page ID
+var help_post_id = 8612;
+
 // prepare A element
 var a = document.createElementNS('http://www.w3.org/2000/svg', 'a');
 var namespaceURI = 'http://www.w3.org/1999/xlink';
@@ -34,14 +37,16 @@ var edit = $('.edit-post');
 
 svg_el.draggable();
 
+// AJAX results handling element
+var r = $('#result');
+var part = '#main article';
+
 // prevent link, load page content into DIV by AJAX
 $('body').on('click', '#svg svg a', function (e) {
 
     e.preventDefault();
     var a = $(this);
     var id = a.parents().eq(0).data('postid');
-    var r = $('#result');
-    var part = '#main article';
 
     if (id) {
         var html;
@@ -135,7 +140,6 @@ function setOposite(element) {
     } else {
         segment_o = segment - 12;
     }
-    console.log(level, segment, segment_o);
     if ($('[data-level]', '#svg svg').removeClass('oposite')) {
         $('[data-level="' + level + '"][data-segment="' + segment_o + '"]').addClass('oposite');
     }
@@ -157,3 +161,28 @@ function getSegment(id) {
 function scrollToResult(element) {
     $('html, body').animate({scrollTop: element.offset().top});
 }
+
+function loadPost(post_id) {
+    if ('undefined' == typeof(loaded[post_id])) {
+        $.ajax({
+            url: '/?p=' + help_post_id,
+            dataType: 'html',
+            success: function (h) {
+                html = $(h).find(part).html();
+                r.html(html);
+                loaded[post_id] = html;
+            }
+        });
+    } else {
+        html = loaded[post_id];
+        r.html(html);
+    }
+}
+
+// initially load help page
+loadPost(help_post_id);
+
+$('.help', '#svg').attr('href', '/?p=' + help_post_id).on('click', function (e) {
+    e.preventDefault();
+    loadPost(help_post_id);
+});
