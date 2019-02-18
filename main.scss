@@ -1,15 +1,21 @@
-$active-bg:#007bff;
-$active-fg:white;
-$neighbour-bg:#cce5ff;
-$neighbour-fg:#004085;
-$oposite-bg:#28a745;
-$oposite-fg:white;
+$active-bg: #007bff;
+$active-fg: white;
+$neighbour-bg: #cce5ff;
+$neighbour-fg: #004085;
+$oposite-bg: #28a745;
+$oposite-fg: white;
 
 html, body {
   margin: 0;
   padding: 0;
   background-color: white;
   font-size: 14px;
+}
+
+h1 {
+  &.entry-title {
+    font-size: 1.5em;
+  }
 }
 
 a {
@@ -47,6 +53,53 @@ a {
     left: 1em;;
   }
 
+  .go-cell {
+    position: fixed;
+    z-index: 1;
+    top: 1em;
+    left: 126px;
+
+    #bavigatorSegment,
+    #bavigatorLevel {
+      min-width: 40px;
+      cursor: default;
+    }
+
+    .segments {
+      .dropdown-menu {
+        &.show {
+          width: 206px;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: center;
+          min-width: auto;
+          > * {
+            flex-grow: 1;
+            width: 25%;
+          }
+        }
+      }
+    }
+
+    .levels {
+      .dropdown-menu {
+        &.show {
+          width: 96px;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: center;
+          min-width: auto;
+          > * {
+            flex-grow: 1;
+            width: 50%;
+          }
+        }
+      }
+    }
+  }
+
   .back-to-website {
     position: fixed;
     z-index: 1;
@@ -59,28 +112,28 @@ a {
     height: 58em;
     .neighbour {
       path {
-        fill:$neighbour-bg;
+        fill: $neighbour-bg;
       }
       text, text * {
-        fill:$neighbour-fg;
+        fill: $neighbour-fg;
       }
     }
     .oposite {
       path {
-        fill:$oposite-bg;
+        fill: $oposite-bg;
       }
       text {
-        fill:$oposite-fg;
+        fill: $oposite-fg;
       }
     }
     a {
       &.loaded {
         &.active {
           path {
-            fill:$active-bg;
+            fill: $active-bg;
           }
           text {
-            fill:$active-fg;
+            fill: $active-fg;
           }
         }
       }

@@ -41,6 +41,9 @@ svg_el.draggable();
 var r = $('#result');
 var part = '#main article';
 
+// navigation by selecting sector / segment
+var navigator = {segment: null, level: null};
+
 // prevent link, load page content into DIV by AJAX
 $('body').on('click', '#svg svg a', function (e) {
 
@@ -101,7 +104,25 @@ $('body').on('click', '#svg svg a', function (e) {
             height: svg_h
         });
     }
+}).on('click', '#svg .go-cell a', function (e) {
+    e.preventDefault();
+    var a = $(this);
+    if (a.data('segment')) {
+        navigator.segment = a.data('segment');
+        $('#bavigatorSegment').html(a.data('segment'));
+        navigate();
+    } else if (a.data('level')) {
+        navigator.level = a.data('level');
+        $('#bavigatorLevel').html(a.data('level'));
+        navigate();
+    }
 });
+
+function navigate() {
+    if (navigator.segment && navigator.level) {
+        $('[data-segment="' + navigator.segment + '"][data-level="' + navigator.level + '"] a').click();
+    }
+}
 
 function setActive(element) {
 
@@ -188,3 +209,4 @@ $('.help', '#svg').attr('href', '/?p=' + help_post_id).on('click', function (e) 
     e.preventDefault();
     loadPost(help_post_id);
 });
+

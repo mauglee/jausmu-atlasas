@@ -4,6 +4,9 @@ html, body {
   background-color: white;
   font-size: 14px; }
 
+h1.entry-title {
+  font-size: 1.5em; }
+
 a {
   outline: none; }
 
@@ -32,6 +35,35 @@ a {
     justify-items: stretch;
     top: 1em;
     left: 1em; }
+  #svg .go-cell {
+    position: fixed;
+    z-index: 1;
+    top: 1em;
+    left: 126px; }
+    #svg .go-cell #bavigatorSegment,
+    #svg .go-cell #bavigatorLevel {
+      min-width: 40px;
+      cursor: default; }
+    #svg .go-cell .segments .dropdown-menu.show {
+      width: 206px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      min-width: auto; }
+      #svg .go-cell .segments .dropdown-menu.show > * {
+        flex-grow: 1;
+        width: 25%; }
+    #svg .go-cell .levels .dropdown-menu.show {
+      width: 96px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      min-width: auto; }
+      #svg .go-cell .levels .dropdown-menu.show > * {
+        flex-grow: 1;
+        width: 50%; }
   #svg .back-to-website {
     position: fixed;
     z-index: 1;
