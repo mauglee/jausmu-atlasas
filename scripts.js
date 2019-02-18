@@ -49,7 +49,13 @@ $('body').on('click', '#svg svg a', function (e) {
 
     e.preventDefault();
     var a = $(this);
-    var id = a.parents().eq(0).data('postid');
+    var g = a.parents().eq(0);
+    var id = g.data('postid');
+
+    // fill navigator values from clicked cell
+    navigator.segment = g.data('segment');
+    navigator.level = g.data('level');
+    reloadNavigator();
 
     if (id) {
         var html;
@@ -122,10 +128,19 @@ function navigate() {
     if (navigator.segment && navigator.level) {
         $('[data-segment="' + navigator.segment + '"][data-level="' + navigator.level + '"] a').click();
     }
+    reloadNavigator();
+}
+
+function reloadNavigator() {
+    $('#bavigatorSegment').html(navigator.segment);
+    $('#bavigatorLevel').html(navigator.level);
+    var a = $('.dropdown-item', '.go-cell');
+    a.removeClass('active');
+    a.filter('[data-segment="' + navigator.segment + '"]').addClass('active');
+    a.filter('[data-level="' + navigator.level + '"]').addClass('active');
 }
 
 function setActive(element) {
-
     if ($('a', '#svg svg').removeClass('active')) {
         element.addClass('active');
         setNeighbours(element);

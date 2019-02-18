@@ -44,6 +44,9 @@ a {
     #svg .go-cell #bavigatorLevel {
       min-width: 40px;
       cursor: default; }
+    #svg .go-cell .dropdown-item.active,
+    #svg .go-cell .dropdown-item:active {
+      background-color: #28a745; }
     #svg .go-cell .segments .dropdown-menu.show {
       width: 206px;
       display: flex;

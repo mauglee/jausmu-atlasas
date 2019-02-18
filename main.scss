@@ -1,8 +1,10 @@
-$active-bg: #007bff;
+$success:#28a745;
+$primary: #007bff;
+$active-bg: $primary;
 $active-fg: white;
 $neighbour-bg: #cce5ff;
 $neighbour-fg: #004085;
-$oposite-bg: #28a745;
+$oposite-bg: $success;
 $oposite-fg: white;
 
 html, body {
@@ -63,6 +65,11 @@ a {
     #bavigatorLevel {
       min-width: 40px;
       cursor: default;
+    }
+
+    .dropdown-item.active,
+    .dropdown-item:active {
+      background-color: $success;
     }
 
     .segments {
