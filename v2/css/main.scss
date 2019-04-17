@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import 'library';
+
+body {
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: .70em;
+  font-size: 0.9em;
+}
+path {
+  stroke: #353232;
+}
+// zodiakai
+.z{
+  stroke-width: 0.1;
+  fill: #c5c5c5;
+  stroke: #acabab;
+}
+.z text{
+  font-size: 16px;
+  // font-weight: bold;
+  fill: rgb(7, 7, 7);
+  text-anchor: middle;
+}
+
+
+.hidden{
+  display: none;
+}
+.controls.con1{
+  top: 0px;
+  left: 0px; 
+  position: fixed;
+}
+.controls.con2{
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  // border: 1px solid #000;
+  padding-bottom: 20px;
+}
+.controls {  
+  padding: 12px;
+  padding-bottom: 5px; 
+  padding-left: 20px; 
+  z-index: 10;
+  background-color: #fff;
+  margin-bottom: 40px;
+  // opacity: 0.7;
+  
+  
+  
+  ul, ul li{
+    margin-bottom: 8px;
+  }
+ .info{
+        margin-top: 10px;
+  } 
+  .btn {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .custom-switch label{
+    // pointer-events: none;
+    // color: red;
+    padding-bottom: 6px;
+  }
+  // #save{
+    
+  // }
+}
+
+.selected{
+  color: green;
+  font-weight: bold;
+
+  circle{
+    stroke: 2px;
+    fill: green;
+    border: 1px solid #000;
+  }
+  text{
+    fill: white;
+  }  
+}
+// selected segment
+.selected.s{
+  font-size: 2em;
+}  
+
+.z text{
+  // fill: red;
+}
+
+
+
+
+/* text.segmentai{
+  fill: black;
+  stroke: red;
+  font-size: 8em;
+} */
